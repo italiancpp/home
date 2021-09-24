@@ -1,0 +1,8 @@
+# main links links
+main:
+  - title: "Eventi"
+    url: /archivio-eventi
+  - title: "Proponi un talk"
+    url: /call-for-session
+  - title: "About"
+    url: /about

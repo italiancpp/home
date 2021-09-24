@@ -1,0 +1,43 @@
+---
+layout: splash
+author_profile: false
+title: Italian C++ Community
+tagline: La community Italiana dedicata al C++
+header:
+  caption: 
+  overlay_image: /assets/images/header-bg.jpg
+  cta_url: "#eventi-in-programma"
+  cta_label: Scopri gli eventi in programma
+
+
+feature_row:
+  - image_path: /assets/images/team/1.png
+    alt: "Marco Arena"
+    title: "Marco Arena"
+    excerpt: "Fondatore"
+    image_class: authors  
+
+entries_layout: grid
+---
+
+
+<section class="main-section-description">
+    {% capture my_include %} {% include introduzione.md %} {% endcapture %}
+    {{ my_include | markdownify }}
+</section>
+
+
+<section class="upcoming-events">
+    <h1 id="eventi-in-programma"> Prossimi eventi: </h1> <a class="header-link" href="#eventi-in-programma" title="permalink"><span class="sr-only">Permalink</span></a>
+    
+    <div class="entries-grid">
+        {% for post in site.eventi %}    
+            {% if post.date >= site.time %}
+                {% include archive-single.html type=grid %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>
+
+
+

@@ -1,0 +1,15 @@
+.feature__wrapper {
+    &.compact {
+      margin-bottom: 0px;
+      border-bottom: none;
+    }
+  }
+  
+  .feature__item {
+    &.round {
+      img {
+        border: 7px solid rgba(0,0,0,.1);
+        border-radius: 50% !important;
+      }
+    }
+}

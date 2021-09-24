@@ -1,0 +1,14 @@
+@import "mlmodena_theme/archive";
+
+.btn--primary {
+    background-color: #dddd00;
+    color: #333;
+    &:hover {
+        background-color: #bbbb00;
+        color: #333;
+    }
+    &:visited {
+        background-color: #bbbb00;
+        color: #333;
+    }
+}
