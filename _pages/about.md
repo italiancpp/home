@@ -22,8 +22,8 @@ partners:
 
 > When you’re surrounded by people who share a passionate commitment around a common purpose, anything is possible – **Howard Schultz**
 
-<figure class="fig-cpp-people">
-  <img class="img-cpp-people"
+<figure>
+  <img
   src="/assets/images/about/itcppcon19-crowd.jpg"
   alt="Italian C++ Conference 2019, Milano (240 partecipanti)">
   <figcaption>Italian C++ Conference 2019, Milano (240 partecipanti)</figcaption>
