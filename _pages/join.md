@@ -6,6 +6,17 @@ permalink: /join
 
 <br />
 
+In tanti anni di community abbiamo capito che **sei tu a decidere in che modo vuoi seguirci** e non il contrario.
+
+Quindi ti proponiamo di entrare nello straordinario ecosistema di Italian C++ Community attraverso alcune *proposte di interazione*:
+
+- i **canali social** (che trovi sul fondo di questa pagina),
+- gli **eventi** (fisici o virtuali),
+- il **team Slack** con i canali tematici in Italiano dedicati al C++
+- la **newsletter**, concisa e mobile-friendly, che ti aggiornerà sulle nostre iniziative
+- il **subreddit** in Italiano dedicato al C++
+- la **mappa interattiva** per "vedere dove siamo"
+
 ## Slack
 
 Entra nel nostro team **Slack** per interagire con gli altri partecipanti. Inoltre potrai ricevere aggiornamenti su:
@@ -28,3 +39,11 @@ Iscriviti alla newsletter per rimanere aggiornato sulle nostre iniziative e per 
 Apri le tue discussioni e chiedi aiuto in Italiano sul C++ attraverso il nostro subreddit:
 
 [Visita il subreddit di ++it](https://www.reddit.com/r/cppit/)
+
+## Mappa del C++-isti italiani nel mondo
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1kq4qEWdgLfxmDj2QOc8jIgH3yZc" width="640" height="480"></iframe>
+
+Entra anche tu sulla mappa:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-cAX7AiYTXIbB9NUPgM1JAW6QnxmWAJmFT4FLW-TiRjecpg/viewform?embedded=true" width="640" height="980" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
