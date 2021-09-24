@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about
+  - title: "Iscriviti"
+    url: /join
   - title: "Eventi"
     url: /archivio-eventi
   - title: "Privacy Policy"
