@@ -77,7 +77,7 @@ L’unico requisito per partecipare è prendere visione delle [informazioni lega
 ### Magic C++ Moments!
 
 <figure>
-  <img
+  <img class=".img--about"
   src="assets/images/about/bjarne2016.jpg"
   alt="Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016">
   <figcaption>Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016</figcaption>  
