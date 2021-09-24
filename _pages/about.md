@@ -28,7 +28,7 @@ partners:
 
 <figure>
   <img
-  src="/assets/images/about/itcppcon19-crowd"
+  src="/assets/images/about/itcppcon19-crowd.jpg"
   alt="Italian C++ Conference 2019, Milano (240 partecipanti)">
   <figcaption>Italian C++ Conference 2019, Milano (240 partecipanti)</figcaption>
 </figure>
