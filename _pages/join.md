@@ -3,6 +3,7 @@ title: "Iscriviti"
 layout: splash
 permalink: /join
 ---
+<br/>
 
 # Unisciti alla community
 
