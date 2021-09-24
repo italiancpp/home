@@ -1,6 +1,3 @@
+Benvenuti!
 
-ML Modena (Machine Learning Modena) è una community dedicata al mondo del Machine Learning e dell'Intelligenza Artificiale.
-
-Insieme a voi desideriamo tenere attivo un dialogo sul Machine Learning, sulle Intelligenze Artificiali e sulle opportunità che queste nuove tecnologie ci offrono per rendere più competitive le nostre aziende e laboratori di ricerca, per allargare l'orizzonte del nostro sapere, per immaginare il futuro dei nostri territori e delle nostre vite.
-
-La partecipazione è gratuita e aperta a tutti: professionisti, amministratori, docenti, ricercatori, studenti, appassionati, curiosi.
+*Italian C++ Community* è la community Italiana dedicata al linguaggio di programmazione C++, una delle community no-profit più attive in Europa, punto di riferimento di professionisti, aziende e studenti che hanno l'interesse comune di condividere esperienze sullo sviluppo software in C++ in Italia.
