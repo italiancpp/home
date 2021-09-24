@@ -1,5 +1,9 @@
-Privacy Policy
-==============
+---
+title: "Privacy Policy"
+permalink: /privacy-policy/
+layout: splash
+author_profile: false
+---
 
 **++it** non richiede nessuna informazione personale sui lettori di questo sito oltre alle informazioni normalmente raccolte dai “mezzi tecnici” che permettono di implementare il sito stesso (ad esempio indirizzi IP, browser utilizzati…).
 
