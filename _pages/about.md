@@ -27,7 +27,7 @@ partners:
 > When you’re surrounded by people who share a passionate commitment around a common purpose, anything is possible – **Howard Schultz**
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="/assets/images/about/itcppcon19-crowd.jpg"
   alt="Italian C++ Conference 2019, Milano (240 partecipanti)">
   <figcaption>Italian C++ Conference 2019, Milano (240 partecipanti)</figcaption>
@@ -84,119 +84,119 @@ L’unico requisito per partecipare è prendere visione delle [informazioni lega
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/herb2016.jpg"
   alt="Con Herb Sutter ad Issaquah (Meeting Standard ISO)">
   <figcaption>Con Herb Sutter ad Issaquah (Meeting Standard ISO)</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/scott2014.jpg"
   alt="Con Scott Meyers a Meeting C++ 2014">
   <figcaption>Con Scott Meyers a Meeting C++ 2014</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/bartosz2014.jpg"
   alt="Con Bartosz Milewski ai CDays14 di Roma">
   <figcaption>Con Bartosz Milewski ai CDays14 di Roma</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/michael2016.jpg"
   alt="Con Michael Wong a Meeting C++ 2016">
   <figcaption>Con Michael Wong a Meeting C++ 2016</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/cdays14.jpg"
   alt="Community Days 2014 with the special guest Ale Contenti">
   <figcaption>Community Days 2014 with the special guest Ale Contenti</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/chandler2016.jpg"
   alt="Con Chandler Carruth ad Issaquah (Meeting Standard ISO)">
   <figcaption>Con Chandler Carruth ad Issaquah (Meeting Standard ISO)</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/eric2016.jpg"
   alt="Con Eric Niebler ad Issaquah (Meeting Standard ISO)">
   <figcaption>Con Eric Niebler ad Issaquah (Meeting Standard ISO)</figcaption>  
 </figure>
  
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/hartmut2014.jpg"
   alt="Con Hartmut Kaiser a Meeting C++ 2014">
   <figcaption>Con Hartmut Kaiser a Meeting C++ 2014</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/jj2015.jpg"
   alt="Con Joel Falcou & James McNellis a Meeting C++ 2015">
   <figcaption>Con Joel Falcou & James McNellis a Meeting C++ 2015</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/herb-mug.jpg"
   alt="Herb Sutter ci manda un selfie con la nostra mug!">
   <figcaption>Herb Sutter ci manda un selfie con la nostra mug!</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/scott-mug.jpg"
   alt="Scott Meyers ci manda un selfie con la nostra mug!">
   <figcaption>Scott Meyers ci manda un selfie con la nostra mug!</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/bartosz-cdays.jpg"
   alt="Bartosz Milewski ai CDays14 Roma!">
   <figcaption>Bartosz Milewski ai CDays14 Roma!</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/kate2017.jpg"
   alt="Con Kate Gregory a Meeting C++ 2017">
   <figcaption>Con Kate Gregory a Meeting C++ 2017</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/sean2017.jpg"
   alt="Con Sean Parent a Meeting C++ 2017">
   <figcaption>Con Sean Parent a Meeting C++ 2017</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/dan2018.jpg"
   alt="Con Dan Saks a Meeting C++ 2018">
   <figcaption>Con Dan Saks a Meeting C++ 2018</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/andrei2018.jpg"
   alt="Con Andrei Alexandrescu a Meeting C++ 2018">
   <figcaption>Con Andrei Alexandrescu a Meeting C++ 2018</figcaption>  
 </figure>
 
 <figure>
-  <img
+  <img class="img-cpp-people"
   src="assets/images/about/nico2018.jpg"
   alt="Con Nicolai Josuttis a Meeting C++ 2018">
   <figcaption>Con Nicolai Josuttis a Meeting C++ 2018</figcaption>  
