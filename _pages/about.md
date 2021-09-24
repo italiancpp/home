@@ -76,33 +76,34 @@ L’unico requisito per partecipare è prendere visione delle [informazioni lega
 
 ### Magic C++ Moments!
 
-<figure>
-  <img class="img-cpp-people"
-  src="assets/images/about/bjarne2016.jpg"
-  alt="Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016">
-  <figcaption>Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016</figcaption>  
-</figure>
+<div class="gallery">
+  <a target="_blank" href="assets/images/about/bjarne2016.jpg">
+    <img src="assets/images/about/bjarne2016.jpg" alt="Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016">
+  </a>
+  <div class="desc">Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016</div>
+</div>
 
-<figure>
-  <img class="img-cpp-people"
-  src="assets/images/about/herb2016.jpg"
-  alt="Con Herb Sutter ad Issaquah (Meeting Standard ISO)">
-  <figcaption>Con Herb Sutter ad Issaquah (Meeting Standard ISO)</figcaption>  
-</figure>
+<div class="gallery">
+  <a target="_blank" href="assets/images/about/herb2016.jpg">
+    <img src="assets/images/about/herb2016.jpg" alt="Con Herb Sutter ad Issaquah (Meeting Standard ISO)">
+  </a>
+  <div class="desc">Con Herb Sutter ad Issaquah (Meeting Standard ISO)</div>
+</div>
 
-<figure>
-  <img class="img-cpp-people"
-  src="assets/images/about/scott2014.jpg"
-  alt="Con Scott Meyers a Meeting C++ 2014">
-  <figcaption>Con Scott Meyers a Meeting C++ 2014</figcaption>  
-</figure>
+<div class="gallery">
+  <a target="_blank" href="assets/images/about/scott2014.jpg">
+    <img src="assets/images/about/scott2014.jpg" alt="Con Scott Meyers a Meeting C++ 2014">
+  </a>
+  <div class="desc">Con Scott Meyers a Meeting C++ 2014</div>
+</div>
 
-<figure>
-  <img class="img-cpp-people"
-  src="assets/images/about/bartosz2014.jpg"
-  alt="Con Bartosz Milewski ai CDays14 di Roma">
-  <figcaption>Con Bartosz Milewski ai CDays14 di Roma</figcaption>  
-</figure>
+<div class="gallery">
+  <a target="_blank" href="assets/images/about/bartosz2014.jpg">
+    <img src="assets/images/about/bartosz2014.jpg" alt="Con Bartosz Milewski ai CDays14 di Roma">
+  </a>
+  <div class="desc">Con Bartosz Milewski ai CDays14 di Roma</div>
+</div>
+
 
 <figure>
   <img class="img-cpp-people"
