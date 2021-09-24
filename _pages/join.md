@@ -4,7 +4,7 @@ layout: splash
 permalink: /join
 ---
 
-<br />
+# Unisciti alla community
 
 In tanti anni di community abbiamo capito che **sei tu a decidere in che modo vuoi seguirci** e non il contrario.
 
