@@ -15,7 +15,7 @@ Entra nel nostro team **Slack** per interagire con gli altri partecipanti. Inolt
 - articoli e risorse consigliate, sul canale #learn
 - eventi, sul canale #events
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeLycljtae4yBKVH-YEMZVSQywqgDg_WbSaX460K4yPiBEj7w/viewform?embedded=true" width="640" height="589" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeLycljtae4yBKVH-YEMZVSQywqgDg_WbSaX460K4yPiBEj7w/viewform?embedded=true" width="640" height="700" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
 
 ## Newsletter
 

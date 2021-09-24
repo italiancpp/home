@@ -28,9 +28,9 @@ partners:
 
 <figure>
   <img
-  src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2018/06/WP_20180623_11_26_00_Panorama.jpg?resize=610%2C318&ssl=1"
-  alt="Italian C++ Conference 2018, Milano (200 partecipanti)">
-  <figcaption>Italian C++ Conference 2018, Milano (200 partecipanti)</figcaption>
+  src="/assets/images/about/itcppcon19-crowd"
+  alt="Italian C++ Conference 2019, Milano (240 partecipanti)">
+  <figcaption>Italian C++ Conference 2019, Milano (240 partecipanti)</figcaption>
 </figure>
 
 Benvenuti!
