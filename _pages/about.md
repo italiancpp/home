@@ -56,61 +56,38 @@ La **missione di ++it**:
 
 *   [Subreddit dedicato](https://reddit.com/r/cppit), per discutere e chiedere aiuto sul C++ in lingua **Italiana**;
 
-*   [Piattaforma per scrivere articoli tecnici](http://italiancpp.org/articoli) con snippet di codice “interattivi” (tutti possono [diventare autori](http://www.italiancpp.org/articoli/diventa-un-autore/));
+*   [Newsletter](/join), per aggiornarvi sulle nostre attività e sull’ecosistema internazionale del C++;
 
-*   [Newsletter mensile](http://italiancpp.org/newsletter), per aggiornarvi sulle nostre attività e sull’ecosistema internazionale del C++;
+*   [Team Slack](/join), per interagire con gli altri partecipanti e per ricevere aggiornamenti su **news**, **risorse consigliate**, **eventi**, **offerte di lavoro** riguardanti il C++;
 
-*   [Canali Slack](http://italiancpp.org/slack), per interagire con gli altri partecipanti e per ricevere aggiornamenti su **news**, **risorse consigliate**, **eventi**, **offerte di lavoro** riguardanti il C++;
+*   Organizzazione di [eventi](/archivio-eventi) (anche internazionali) e meetup (ricorrenti sul territorio);
 
-*   Organizzazione di [eventi](http://italiancpp.org/eventi) (anche internazionali) e [meetup](http://www.italiancpp.org/eventi/categoria/meetup/) (ricorrenti sul territorio);
-
-*   [Mappa interattiva](http://italiancpp.org/map/)  dei C++-isti italiani e le aziende nel mondo.
-
-[Lo staff di ++it](chi-siamo/team.html) è guidato da Marco Arena. Chiunque può unirsi! Se desideri contattarci o seguirci anche sui vari social networks, visita la pagina dedicata ai [contatti](chi-siamo/contattaci.html).
-
-[Ascolta il podcast della storia della community](http://www.dotnetpodcast.com/show/card/41).
-
-[Leggi l’articolo celebrativo per i 5 anni della community](index.html%3Fp=8644.html).
+*   [Mappa interattiva](https://www.google.com/maps/@45.7186146,-0.9182294,5z/data=!3m1!4b1!4m2!6m1!1s1kq4qEWdgLfxmDj2QOc8jIgH3yZc)  dei C++-isti italiani e le aziende nel mondo.
 
 #### [Unisciti alla community!](http://italiancpp.org/join)
 
-[![all](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/all.jpg?resize=597%2C416)](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/all.jpg)
+<figure>
+  <img
+  src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/all.jpg?resize=597%2C416"
+  alt="">  
+</figure>
 
 #### Chi può partecipare?
 
-Chiunque. Professionisti, appassionati, docenti, studenti, veterani, neofiti, imprenditori, italiani all’estero…
+Chiunque! Professionisti, appassionati, docenti, studenti, veterani, neofiti, imprenditori, italiani all’estero…
 
-L’unico requisito per partecipare è prendere visione delle [informazioni legali](privacy-policy.html) e rispettare il [regolamento](regolamento/index.html).
+L’unico requisito per partecipare è prendere visione delle [informazioni legali](/privacy-policy) e rispettare il [Codice di Condotta](/coc).
 
-#### In Italia?
-
-[Italy speaks C++ too](http://www.italiancpp.org/2014/11/16/italy-speaks-cpp-too/) – In Italia ci sono molti utenti del C++ che tramite questa community hanno la possibilità di confrontarsi – proprio quando il linguaggio è in piena evoluzione e le aziende, in tutto il mondo, sono tornate ad investirci molto. **++it** vuole conoscerli e metterli in contatto tra loro.
-
-##### [![placeholder](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/placeholder.png?resize=59%2C52)](http://italiancpp.org/map/) [Scopri dove sono i C++-isti italiani!](http://italiancpp.org/map/)
-
-* * *
-
-##### Siamo riconosciuti ufficialmente dalla [Standard C++ Foundation](https://isocpp.org):
-
-[![](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/06/logo-cpp.jpg?resize=308%2C165)](https://isocpp.org/wiki/faq/user-groups-worldwide#user-groups-italy)
-
- 
-
-##### Siamo anche parte del network delle:
-
-![MSTC](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/mstc.png?resize=361%2C62&ssl=1)
-
-* * *
-
-   
-  
- 
+* * * 
 
 ### Magic C++ Moments!
 
- [![Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/IMG_0718.jpg?resize=199%2C199&ssl=1 "Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016")](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/IMG_0718.jpg) 
-
-Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016
+<figure>
+  <img
+  src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/all.jpg?resize=597%2C416"
+  alt="Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016">
+  <figcaption>Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016</figcaption>  
+</figure>
 
  [![Con Herb Sutter ad Issaquah (Meeting Standard ISO)](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/issaquah-sutter.jpg?resize=199%2C199&ssl=1 "Con Herb Sutter ad Issaquah (Meeting Standard ISO)")](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/issaquah-sutter.jpg) 
 
