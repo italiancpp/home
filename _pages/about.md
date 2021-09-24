@@ -64,19 +64,13 @@ La **missione di ++it**:
 
 *   [Mappa interattiva](https://www.google.com/maps/@45.7186146,-0.9182294,5z/data=!3m1!4b1!4m2!6m1!1s1kq4qEWdgLfxmDj2QOc8jIgH3yZc)  dei C++-isti italiani e le aziende nel mondo.
 
-#### [Unisciti alla community!](http://italiancpp.org/join)
-
-<figure>
-  <img
-  src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/all.jpg?resize=597%2C416"
-  alt="">  
-</figure>
-
 #### Chi può partecipare?
 
 Chiunque! Professionisti, appassionati, docenti, studenti, veterani, neofiti, imprenditori, italiani all’estero…
 
 L’unico requisito per partecipare è prendere visione delle [informazioni legali](/privacy-policy) e rispettare il [Codice di Condotta](/coc).
+
+[➕ Iscriviti](/join){: .btn .btn--primary .btn--large}
 
 * * * 
 
@@ -84,75 +78,126 @@ L’unico requisito per partecipare è prendere visione delle [informazioni lega
 
 <figure>
   <img
-  src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/all.jpg?resize=597%2C416"
+  src="assets/images/about/bjarne2016.jpg"
   alt="Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016">
   <figcaption>Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016</figcaption>  
 </figure>
 
- [![Con Herb Sutter ad Issaquah (Meeting Standard ISO)](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/issaquah-sutter.jpg?resize=199%2C199&ssl=1 "Con Herb Sutter ad Issaquah (Meeting Standard ISO)")](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/issaquah-sutter.jpg) 
+<figure>
+  <img
+  src="assets/images/about/herb2016.jpg"
+  alt="Con Herb Sutter ad Issaquah (Meeting Standard ISO)">
+  <figcaption>Con Herb Sutter ad Issaquah (Meeting Standard ISO)</figcaption>  
+</figure>
 
-Con Herb Sutter ad Issaquah (Meeting Standard ISO)
+<figure>
+  <img
+  src="assets/images/about/scott2014.jpg"
+  alt="Con Scott Meyers a Meeting C++ 2014">
+  <figcaption>Con Scott Meyers a Meeting C++ 2014</figcaption>  
+</figure>
 
- [![Con Scott Meyers a Meeting C++ 2014](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/127ADEE3-BE17-45F2-B705-1CD690FBADA8.jpg?resize=199%2C199&ssl=1 "Con Scott Meyers a Meeting C++ 2014")](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/127ADEE3-BE17-45F2-B705-1CD690FBADA8.jpg) 
+<figure>
+  <img
+  src="assets/images/about/bartosz2014.jpg"
+  alt="Con Bartosz Milewski ai CDays14 di Roma">
+  <figcaption>Con Bartosz Milewski ai CDays14 di Roma</figcaption>  
+</figure>
 
-Con Scott Meyers a Meeting C++ 2014
+<figure>
+  <img
+  src="assets/images/about/michael2016.jpg"
+  alt="Con Michael Wong a Meeting C++ 2016">
+  <figcaption>Con Michael Wong a Meeting C++ 2016</figcaption>  
+</figure>
 
- [![Con Bartosz Milewski ai CDays14 di Roma](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2014/07/DSC_1352.jpg?resize=199%2C199&ssl=1 "Con Bartosz Milewski ai CDays14 di Roma")](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2014/07/DSC_1352.jpg) 
+<figure>
+  <img
+  src="assets/images/about/cdays14.jpg"
+  alt="Community Days 2014 with the special guest Ale Contenti">
+  <figcaption>Community Days 2014 with the special guest Ale Contenti</figcaption>  
+</figure>
 
-Con Bartosz Milewski ai CDays14 di Roma
+<figure>
+  <img
+  src="assets/images/about/chandler2016.jpg"
+  alt="Con Chandler Carruth ad Issaquah (Meeting Standard ISO)">
+  <figcaption>Con Chandler Carruth ad Issaquah (Meeting Standard ISO)</figcaption>  
+</figure>
 
- [![Con Michael Wong a Meeting C++ 2016](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/mic-wong.png?resize=199%2C199&ssl=1 "Con Michael Wong a Meeting C++ 2016")](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/mic-wong.png) 
+<figure>
+  <img
+  src="assets/images/about/eric2016.jpg"
+  alt="Con Eric Niebler ad Issaquah (Meeting Standard ISO)">
+  <figcaption>Con Eric Niebler ad Issaquah (Meeting Standard ISO)</figcaption>  
+</figure>
+ 
+<figure>
+  <img
+  src="assets/images/about/hartmut2014.jpg"
+  alt="Con Hartmut Kaiser a Meeting C++ 2014">
+  <figcaption>Con Hartmut Kaiser a Meeting C++ 2014</figcaption>  
+</figure>
 
-Con Michael Wong a Meeting C++ 2016
+<figure>
+  <img
+  src="assets/images/about/jj2015.jpg"
+  alt="Con Joel Falcou & James McNellis a Meeting C++ 2015">
+  <figcaption>Con Joel Falcou & James McNellis a Meeting C++ 2015</figcaption>  
+</figure>
 
- [![CDays14. Special Guest: Ale Contenti](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/cdays14.jpg?resize=199%2C199&ssl=1 "CDays14. Special Guest: Ale Contenti")]https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/cdays14.jpg) 
+<figure>
+  <img
+  src="assets/images/about/herb-mug.jpg"
+  alt="Herb Sutter ci manda un selfie con la nostra mug!">
+  <figcaption>Herb Sutter ci manda un selfie con la nostra mug!</figcaption>  
+</figure>
 
-CDays14. Special Guest: Ale Contenti
+<figure>
+  <img
+  src="assets/images/about/scott-mug.jpg"
+  alt="Scott Meyers ci manda un selfie con la nostra mug!">
+  <figcaption>Scott Meyers ci manda un selfie con la nostra mug!</figcaption>  
+</figure>
 
- [![Con Chandler Carruth ad Issaquah (Meeting Standard ISO)](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/issaquah-chandler.jpg?resize=199%2C199&ssl=1 "Con Chandler Carruth ad Issaquah (Meeting Standard ISO)")](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/issaquah-chandler.jpg) 
+<figure>
+  <img
+  src="assets/images/about/bartosz-cdays.jpg"
+  alt="Bartosz Milewski ai CDays14 Roma!">
+  <figcaption>Bartosz Milewski ai CDays14 Roma!</figcaption>  
+</figure>
 
-Con Chandler Carruth ad Issaquah (Meeting Standard ISO)
+<figure>
+  <img
+  src="assets/images/about/kate2017.jpg"
+  alt="Con Kate Gregory a Meeting C++ 2017">
+  <figcaption>Con Kate Gregory a Meeting C++ 2017</figcaption>  
+</figure>
 
- [![Con Eric Niebler ad Issaquah (Meeting Standard ISO)](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/issaquah-niebler.jpg?resize=199%2C199&ssl=1 "Con Eric Niebler ad Issaquah (Meeting Standard ISO)")](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/issaquah-niebler.jpg) 
+<figure>
+  <img
+  src="assets/images/about/sean2017.jpg"
+  alt="Con Sean Parent a Meeting C++ 2017">
+  <figcaption>Con Sean Parent a Meeting C++ 2017</figcaption>  
+</figure>
 
-Con Eric Niebler ad Issaquah (Meeting Standard ISO)
+<figure>
+  <img
+  src="assets/images/about/dan2018.jpg"
+  alt="Con Dan Saks a Meeting C++ 2018">
+  <figcaption>Con Dan Saks a Meeting C++ 2018</figcaption>  
+</figure>
 
- [![Con Hartmut Kaiser a Meeting C++ 2014](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/WP_001087.jpg?resize=199%2C199&ssl=1 "Con Hartmut Kaiser a Meeting C++ 2014")](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/WP_001087.jpg) 
+<figure>
+  <img
+  src="assets/images/about/andrei2018.jpg"
+  alt="Con Andrei Alexandrescu a Meeting C++ 2018">
+  <figcaption>Con Andrei Alexandrescu a Meeting C++ 2018</figcaption>  
+</figure>
 
-Con Hartmut Kaiser a Meeting C++ 2014
-
- [![Con Joel Falcou & James McNellis a Meeting C++ 2015](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/james_joel.jpg?resize=199%2C199&ssl=1 "Con Joel Falcou & James McNellis a Meeting C++ 2015")](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/james_joel.jpg) 
-
-Con Joel Falcou & James McNellis a Meeting C++ 2015
-
- [![Herb Sutter ci manda un selfie con la nostra mug](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/herb.jpg?resize=199%2C199&ssl=1 "Herb Sutter ci manda un selfie con la nostra mug")](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/herb.jpg) 
-
-Herb Sutter ci manda un selfie con la nostra mug
-
- [![Scott Meyers ci manda un selfie con la nostra mug](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/IMG_0595-cropped-adjusted.jpg?resize=199%2C199&ssl=1 "Scott Meyers ci manda un selfie con la nostra mug")](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/IMG_0595-cropped-adjusted.jpg) 
-
-Scott Meyers ci manda un selfie con la nostra mug
-
- [![Bartosz Milewski ai CDays14 Roma!](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/DSC_1355-e1422297523115.jpg?resize=199%2C199&ssl=1 "Bartosz Milewski ai CDays14 Roma!")](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/DSC_1355-e1422297523115.jpg) 
-
-Bartosz Milewski ai CDays14 Roma!
-
- [![Con Kate Gregory a Meeting C++ 2017](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/WP_20171111_17_53_57_Rich.jpg?resize=199%2C199&ssl=1 "WP_20171111_17_53_57_Rich")](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/WP_20171111_17_53_57_Rich.jpg) 
-
-Con Kate Gregory a Meeting C++ 2017
-
- [![Con Sean Parent a Meeting C++ 2017](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/WP_20171111_16_01_43_Rich.jpg?resize=199%2C199&ssl=1 "WP_20171111_16_01_43_Rich")](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/WP_20171111_16_01_43_Rich.jpg) 
-
-Con Sean Parent a Meeting C++ 2017
-
- [![Con Dan Saks a Meeting C++ 2018](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/46486092_10156925323596057_2793943901847683072_n-1.jpg?resize=199%2C199&ssl=1 "46486092_10156925323596057_2793943901847683072_n (1)")](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/46486092_10156925323596057_2793943901847683072_n-1.jpg) 
-
-Con Dan Saks a Meeting C++ 2018
-
- [![Con Andrei Alexandrescu a Meeting C++ 2018](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/46358949_10156925323531057_5746629159300366336_n.jpg?resize=199%2C199&ssl=1 "46358949_10156925323531057_5746629159300366336_n")](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/46358949_10156925323531057_5746629159300366336_n.jpg) 
-
-Con Andrei Alexandrescu a Meeting C++ 2018
-
- [![Con Nicolai Josuttis a Meeting C++ 2018](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/46380959_10156925323456057_300143889581342720_n.jpg?resize=199%2C199&ssl=1 "46380959_10156925323456057_300143889581342720_n")](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/46380959_10156925323456057_300143889581342720_n.jpg) 
-
-Con Nicolai Josuttis a Meeting C++ 2018
+<figure>
+  <img
+  src="assets/images/about/nico2018.jpg"
+  alt="Con Nicolai Josuttis a Meeting C++ 2018">
+  <figcaption>Con Nicolai Josuttis a Meeting C++ 2018</figcaption>  
+</figure>
