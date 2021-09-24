@@ -26,9 +26,12 @@ partners:
 
 > When you’re surrounded by people who share a passionate commitment around a common purpose, anything is possible – **Howard Schultz**
 
-[![](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2018/06/WP_20180623_11_26_00_Panorama.jpg?resize=610%2C318&ssl=1)](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2018/06/WP_20180623_11_26_00_Panorama.jpg?ssl=1)
-
-Italian C++ Conference 2018, Milano (200 partecipanti)
+<figure>
+  <img
+  src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2018/06/WP_20180623_11_26_00_Panorama.jpg?resize=610%2C318&ssl=1"
+  alt="Italian C++ Conference 2018, Milano (200 partecipanti)">
+  <figcaption>Italian C++ Conference 2018, Milano (200 partecipanti)</figcaption>
+</figure>
 
 Benvenuti!
 
