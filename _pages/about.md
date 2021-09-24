@@ -76,28 +76,28 @@ L’unico requisito per partecipare è prendere visione delle [informazioni lega
 
 ### Magic C++ Moments!
 
-<div class="gallery">
+<div class="cpp-gallery">
   <a target="_blank" href="assets/images/about/bjarne2016.jpg">
     <img src="assets/images/about/bjarne2016.jpg" alt="Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016">
   </a>
   <div class="desc">Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016</div>
 </div>
 
-<div class="gallery">
+<div class="cpp-gallery">
   <a target="_blank" href="assets/images/about/herb2016.jpg">
     <img src="assets/images/about/herb2016.jpg" alt="Con Herb Sutter ad Issaquah (Meeting Standard ISO)">
   </a>
   <div class="desc">Con Herb Sutter ad Issaquah (Meeting Standard ISO)</div>
 </div>
 
-<div class="gallery">
+<div class="cpp-gallery">
   <a target="_blank" href="assets/images/about/scott2014.jpg">
     <img src="assets/images/about/scott2014.jpg" alt="Con Scott Meyers a Meeting C++ 2014">
   </a>
   <div class="desc">Con Scott Meyers a Meeting C++ 2014</div>
 </div>
 
-<div class="gallery">
+<div class="cpp-gallery">
   <a target="_blank" href="assets/images/about/bartosz2014.jpg">
     <img src="assets/images/about/bartosz2014.jpg" alt="Con Bartosz Milewski ai CDays14 di Roma">
   </a>

@@ -13,19 +13,19 @@
     }
 }
 
-div.gallery {
+div.cpp-gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
   width: 180px;
 }
 
-div.gallery:hover {
+div.cpp-gallery:hover {
   border: 1px solid #777;
 }
 
-div.gallery img {
-  width: 50%;
+div.cpp-gallery img {
+  width: 25%;
   height: auto;
 }
 
