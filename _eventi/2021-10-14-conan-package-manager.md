@@ -4,6 +4,7 @@ excerpt: "Meetup...in presenza!"
 read_time: false
 related: false
 show_date: true
+toc: true
 share: true
 comments: false
 author_profile: false
@@ -13,10 +14,12 @@ tags:
   - conan
 ---
 
-Tornano i meetup C++ realizzati dall'Italian C++ Community e ospitati da ConoscereLinux!
+Tornano i meetup C++ **in presenza** realizzati dall'Italian C++ Community e ospitati da ConoscereLinux!
 
 Ogni incontro prevede la condivisione di un argomento, spazio per le domande e poi una pizza tutti insieme.
 Il formato della presentazione può variare ed è deciso dal relatore ospite della serata: talk frontale, workshop, live coding, ecc.
+
+Gli incontri, **come avveniva prima dell'emergenza sanitaria**, saranno trasmessi **anche** in diretta streaming.
 
 ### La sessione:
 
@@ -26,9 +29,13 @@ The Conan package manager for C++ is useful in both simple and advanced developm
 
 Diego Rodriguez-Losada Gonzalez's passions are robotics and SW engineering and development. He has developed many years in C and C++ in the Industrial, Robotics and AI fields. Diego was also a University (tenure track) professor and robotics researcher for 8 years, till 2012, when he quit academia to try to build a C/C++ dependency manager and co-founded a startup. Since then he mostly develops in Python. Diego is a conan.io C/C++ package manager co-creator and maintainer, now working at JFrog as senior SW engineer and C/C++ advocate.
 
+### Iscrizioni
+
+Iscriviti e scopri come partecipare sul sito del nostro host:
+
 [➕ Iscriviti all'evento](https://conoscerelinux.org/courses/meetupcpp_1021/){: .btn .btn--primary .btn--large}
 
-# Video dell'evento
+### Video dell'evento
 
 Se desideri seguire la diretta YouTube e partecipare da remoto:
 
