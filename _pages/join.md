@@ -27,7 +27,7 @@ Entra nel nostro team **Slack** per interagire con gli altri partecipanti. Inolt
 - articoli e risorse consigliate, sul canale #learn
 - eventi, sul canale #events
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeLycljtae4yBKVH-YEMZVSQywqgDg_WbSaX460K4yPiBEj7w/viewform?embedded=true" width="640" height="700" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeLycljtae4yBKVH-YEMZVSQywqgDg_WbSaX460K4yPiBEj7w/viewform?embedded=true" width="640" height="810" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
 
 ## Newsletter
 
@@ -43,8 +43,8 @@ Apri le tue discussioni e chiedi aiuto in Italiano sul C++ attraverso il nostro 
 
 ## Mappa del C++-isti italiani nel mondo
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1kq4qEWdgLfxmDj2QOc8jIgH3yZc" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1kq4qEWdgLfxmDj2QOc8jIgH3yZc" width="640" height="580"></iframe>
 
 Entra anche tu sulla mappa:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-cAX7AiYTXIbB9NUPgM1JAW6QnxmWAJmFT4FLW-TiRjecpg/viewform?embedded=true" width="640" height="980" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-cAX7AiYTXIbB9NUPgM1JAW6QnxmWAJmFT4FLW-TiRjecpg/viewform?embedded=true" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
