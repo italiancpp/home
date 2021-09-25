@@ -8,6 +8,7 @@ toc: true
 share: true
 comments: false
 author_profile: false
+layout: splash
 tags:
   - community
   - meetup
@@ -21,11 +22,11 @@ Il formato della presentazione può variare ed è deciso dal relatore ospite del
 
 Gli incontri, **come avveniva prima dell'emergenza sanitaria**, saranno trasmessi **anche** in diretta streaming.
 
-### La sessione:
+### La sessione
 
 The Conan package manager for C++ is useful in both simple and advanced development environments. Join the Conan team to see it in action, with a simple demo using OSS libraries and tools from ConanCenter, and a more complete demo showing how to create and upload a package including different binaries for different platforms to a private repository. Also, learn about many other unique and innovative advanced Conan features along the way.
 
-### Il relatore:
+### Il relatore
 
 Diego Rodriguez-Losada Gonzalez's passions are robotics and SW engineering and development. He has developed many years in C and C++ in the Industrial, Robotics and AI fields. Diego was also a University (tenure track) professor and robotics researcher for 8 years, till 2012, when he quit academia to try to build a C/C++ dependency manager and co-founded a startup. Since then he mostly develops in Python. Diego is a conan.io C/C++ package manager co-creator and maintainer, now working at JFrog as senior SW engineer and C/C++ advocate.
 
