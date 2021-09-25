@@ -8,7 +8,6 @@ toc: true
 share: true
 comments: false
 author_profile: false
-layout: splash
 tags:
   - community
   - meetup
