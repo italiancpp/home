@@ -3,7 +3,7 @@ title: "Meetup Milano 2014"
 layout: splash
 ---
 
-[![intro_meetup](/assets/images/eventi/meetup0614.jpg)
+<img src="/assets/images/eventi/meetup0614.jpg" alt="intro meetup picture" width="60%">
 
 Lo scorso 28 Giugno abbiamo organizzato il primo meetup della community, a Milano. **Oltre 30 partecipanti** (più delle aspettative) e **4 speakers** eccezionali. Unica nota negativa è il non essere riusciti a trasmettere i contenuti in streaming…Youtube ci ha tradito! Per fortuna la nostra fotografa [Francesca](https://twitter.com/Hetepheres_com) ha realizzato numerosi scatti (potete trovarli sul [nostro gruppo facebook](https://www.facebook.com/media/set/?set=oa.477428019058858&type=1))!
 
