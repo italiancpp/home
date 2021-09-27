@@ -1,5 +1,5 @@
 ---
-title: "Implementiamo "Slowest Key" in next-gen C++ "
+title: "Implementiamo \"Slowest Key\" in next-gen C++"
 excerpt: "Meetup online"
 read_time: false
 related: false
