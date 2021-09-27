@@ -2,7 +2,6 @@
 title: "Meetup Milano 2014"
 excerpt: "Primo evento dell'Italian C++ Community"
 read_time: false
-alias: /event/meetup-milano
 related: false
 show_date: true
 toc: true
