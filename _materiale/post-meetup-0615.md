@@ -1,0 +1,59 @@
+---
+title: "Meetup Firenze 2015"
+layout: splash
+---
+
+<center>
+<img src="https://ilpropheta.github.io/pics/meetup-firenze15.png" alt="meetup Pordenone">
+</center>
+<br/>
+
+Lo scorso 20 Giugno abbiamo avuto un’ennesima dimostrazione della _straordinarietà_ dell’ecosistema C++!
+
+Abbiamo fatto tappa nella splendida Firenze, al [Grand Hotel Mediterraneo](http://www.hotelmediterraneo.com/), una suggestiva location che si trova in pieno centro, lungo il fiume Arno.
+
+Eravamo circa **50 C++-isti**! Un ottimo risultato che, visto lo splendido clima di metà Giugno, non ci aspettavamo 😛
+
+L’evento non sarebbe riuscito senza il supporto di [Develer](http://develer.com) – ed in particolare di **Mena Marotta** (Event & Marketing Manager) – che ha offerto la location e ci ha dato un grande aiuto logistico.
+
+##### Un GRAZIE enorme a Develer!
+
+Poseguendo con i ringraziamenti, un encomio speciale lo merita [Gian Lorenzo Meocci](https://twitter.com/glmeocci) che si è occupato dei [video](https://www.youtube.com/playlist?list=PLsCm1Hs016LWVtIrPOFrRTNvSeN61WqOK) e di molte [foto](https://www.facebook.com/photo.php?fbid=10153452652931057&set=oa.654492274685764&type=3&theater) – oltre che di presentare una sessione! **GRAZIE Gian Lorenzo!**
+
+Grazie ad [Alessandro Vergani](https://twitter.com/Loghorn), che non solo ha dato un grande supporto all’organizzazione e alla fase di check-in, ma è stato anche il responsabile delle varie estrazioni che abbiamo fatto durante la giornata. **GRAZIE Alessandro!**
+
+Grazie poi al resto dello staff di ++it che ha dato un contributo attivo nell’organizzazione, sia di persona che “remotamente”. Solo per citare le persone presenti: **Alfredo Di Napoli**, **Marco Foco**, **Gianluca Padovani** e **Nicola Bonelli** che insieme a me, Gian Lorenzo e Alessandro hanno rappresentato l’intero staff di ++it! **GRAZIE a tutti!**
+
+##### Ma il GRAZIE più grande va a tutti i partecipanti!
+
+Hashtag della giornata **[#cppFI](https://storify.com/italiancpp/italiancpp-meetup-firenze-2015)**. [Qui potete trovare i contenuti Twitter raggruppati su Storify](https://storify.com/italiancpp/italiancpp-meetup-firenze-2015).
+
+Parliamo velocemente dei contenuti. Prima di tutto, come sempre, potete ritrovare **slides** e (sì ce l’abbiamo fatta!) **video** alla [pagina dell’evento](https://italiancpp.org/eventi/2015-06-20-meetup-firenze/). Ecco una [comoda playlist](https://www.youtube.com/playlist?list=PLsCm1Hs016LWVtIrPOFrRTNvSeN61WqOK) per far rosicare chi non è venuto 🙂
+
+Dopo una mia rapida introduzione all’evento, **Gian Lorenzo Meocci** ci ha fatto una panoramica sul C++ oggi, sul perché l’interesse su questo linguaggio è aumentato negli ultimi anni e sul perché ne sentiremo ancora parlare per molto tempo. Paradossalmente proprio il suo video non è stato registrato per un inconveniente tecnico 🙁
+
+A seguire **Nicola Bonelli** ha presentato CAT, la sua libreria funzionale in C++14. La sessione è stata ricca di esempi e di interazione col pubblico.
+
+Poi è stata la volta di **Luca Ottaviano** con Qt e C++, un “binomio perfetto”. A Luca l’arduo compito di raccontare Qt in 60′, le sue meccaniche fondamentali e le ultimissime novità.
+
+Ultima sessione prima di pranzo lasciata a **Marco Foco**, con un simpaticissimo experience report: Marco ha tenuto un corso di C++14 su Raspberry PI, durato qualche settimana. Cosa veramente curiosa e innovativa: si partiva from scratch, ovvero ai partecipanti non era richiesta conoscenza di C++. I risultati sono stati davvero interessanti!
+
+A pranzo qualcuno aveva altri programmi, ma con gli altri (circa 30 persone) siamo andati all’[Outside Bistrot](http://www.outsidebistrot.com/) e non sono mancati dei bei momenti di networking!
+
+Subito dopo pranzo un momento goliardico per non addormentarci: abbiamo proiettato un video esclusivo in cui Bjarne scopre che i Concepts non sono finiti nel C++14…[Ecco come hanno reagito i partecipanti](https://youtu.be/ei8AenckUQg)!
+
+I contenuti tecnici pomeridiani sono stati inaugurati da **Vittorio Romeo**, con una sessione hands-on su Game Development in C++11/14. Vittorio ha mostrato come sia possibile sviluppare Breakout/Arkanoid da zero, con solo **SFML** e un compilatore C++14. Sessione pratica e di massima ispirazione!
+
+Poi finalmente l’attesissimo **Bartosz Milewski** ci ha mostrato un caso reale di utilizzo di monadi in C++ per risolvere un problema di constraint satisfaction.
+
+Infine **Mario Mulansky** ha parlato di **Boost.SIMD** e utilizzo efficiente di CPU e cache in contesti single thread. Il dominio di Mario è quello del calcolo scientifico e delle simulazioni fisiche.
+
+Come accennato in precedenza, nel corso della giornata abbiamo fatto diverse estrazioni per libri **O’ Reilly** e licenze **JetBrains**. Lo strumento è stato…un piccolo articolo con uno snippet compilabile al suo interno!
+
+La giornata è stata molto bella, interessante, divertente! Se volete dare un’occhiata al feedback [visitate joind.in](https://joind.in/event/view/3894).
+
+**Buona estate a tutti e continuate a seguirci per conoscere i prossimi appuntamenti!**
+
+<center>
+<img src="https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2015/06/grid.jpg?resize=600%2C682&ssl=1" alt="meetup Firenze">
+</center>
