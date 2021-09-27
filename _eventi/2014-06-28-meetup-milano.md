@@ -1,6 +1,5 @@
 ---
 title: "Meetup Milano 2014"
-permalink: /event/meetup-milano/
 excerpt: "Primo evento dell'Italian C++ Community"
 read_time: false
 related: false
