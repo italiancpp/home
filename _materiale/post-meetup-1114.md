@@ -3,15 +3,19 @@ title: "Meetup Bologna 2014"
 layout: splash
 ---
 
+<center>
 <img src="https://ilpropheta.github.io/pics/meetup-bo14.png" alt="meetup Bologna">
+</center>
 
-Lo scorso 8 Novembre la community si è riunita a **Bologna**, per la seconda volta con un meetup **indipendente** e **gratuito**. Rispetto al [meetup di Milano](../../../07/01/meetup-milano-2014/index.html), questa volta l’evento è stato decisamente più lungo (9-17.30), con sessioni di tipologia differente e con un’affluenza che ha superato i 50 partecipanti. Premetto che [qui potete trovare i dettagli dell’agenda ed il materiale scaricabile di ciascun intervento](../../../../eventi/dettagli-meetup-bologna-2014.html).
+Lo scorso 8 Novembre la community si è riunita a **Bologna**, per la seconda volta con un meetup **indipendente** e **gratuito**. Rispetto al [meetup di Milano](/materiale/post-meetup-0614), questa volta l’evento è stato decisamente più lungo (9-17.30), con sessioni di tipologia differente e con un’affluenza che ha superato i 50 partecipanti.
 
 [Qui potete trovare le foto dell’evento](https://t.co/hJfwregSjE) (se non avete facebook potete scorrerle ugualmente una alla volta). Un **grande grazie** a [Gian Lorenzo Meocci](https://twitter.com/glmeocci) per averle realizzate!
 
 Se avete partecipato [potete dare feedback su joind.in](https://joind.in/event/view/2834).
 
+<center>
 <img src="/assets/images/eventi/meetup1114.jpg" alt="meetup Bologna" width="50%">
+</center>
 
 Desidero fare un **ringraziamento particolare** a [Gianluca Padovani](https://twitter.com/GPad619) per il grande aiuto logistico, senza di lui sarebbe stato difficile ottenere un risultato migliore nel realizzare questo meetup.
 
