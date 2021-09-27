@@ -1,5 +1,6 @@
 ---
 title: "Meetup Milano 2014"
+permalink: /event/meetup-milano/
 excerpt: "Primo evento dell'Italian C++ Community"
 read_time: false
 related: false
@@ -18,7 +19,9 @@ Il primo evento dal vivo dell'Italian C++ Community, a Milano (**Spazio Blend To
 
 ![foto del meetup](https://ilpropheta.github.io/pics/meetup-mi14.png)
 
-Sessioni (4 da 30 minuti l'una) durante la mattina, pranzo insieme a seguire:
+Sessioni (4 da 30 minuti l'una) durante la mattina, pranzo insieme a seguire.
+
+### Agenda
 
 | Orario |Talk |
 | ------ | ------ |

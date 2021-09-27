@@ -7,15 +7,15 @@ layout: splash
 
 Lo scorso 28 Giugno abbiamo organizzato il primo meetup della community, a Milano. **Oltre 30 partecipanti** (più delle aspettative) e **4 speakers** eccezionali. Unica nota negativa è il non essere riusciti a trasmettere i contenuti in streaming…Youtube ci ha tradito! Per fortuna la nostra fotografa [Francesca](https://twitter.com/Hetepheres_com) ha realizzato numerosi scatti (potete trovarli sul [nostro gruppo facebook](https://www.facebook.com/media/set/?set=oa.477428019058858&type=1))!
 
-Dopo aver introdotto il [programma della giornata](http://www.italiancpp.org/event/meetup-milano/), ho brevemente parlato della community, delle nostre attività, collaborazioni e partecipazioni. Come annunciato, saremo di nuovo ai [Community Days](http://www.communitydays.it/events/2014-Roma/) (Settembre, a Roma) curando una track più breve ma con un ospite internazionale davvero interessante (sarà reso noto contestualmente all’ufficialità dell’agenda dei CDays)!
+Dopo aver introdotto il [programma della giornata](/event/meetup-milano/), ho brevemente parlato della community, delle nostre attività, collaborazioni e partecipazioni. Come annunciato, saremo di nuovo ai [Community Days](http://www.communitydays.it/events/2014-Roma/) (Settembre, a Roma) curando una track più breve ma con un ospite internazionale davvero interessante (sarà reso noto contestualmente all’ufficialità dell’agenda dei CDays)!
 
 Stiamo inoltre ragionando su diversi **meetup** sparsi un po’ per **tutta** **la nostra penisola**. Se avete delle proposte fatevi avanti, considerate che è nostro interesse entrare in contatto con qualsiasi area dell’industria e della ricerca collegata in qualche modo al C++. Ci piacerebbe organizzare dei meetup/eventi più estesi, con track focalizzate su specifici domini di interesse.
 
-Abbiamo formato un gruppo che andrà a [Meeting C++ 2014](http://meetingcpp.com) (Dicembre, a Berlino). Se volete unirvi alla nostra spedizione scrivete a [\[email protected\]](/cdn-cgi/l/email-protection#c0a9aea6af80a9b4a1aca9a1aea3b0b0eeafb2a7). Sul fronte delle collaborazioni abbiamo un canale aperto con [isocpp.org](https://isocpp.org) (per il quale ho titolo di blog contributor) e [siamo riconosciuti ufficialmente](https://isocpp.org/wiki/faq/user-groups-worldwide).
+Abbiamo formato un gruppo che andrà a [Meeting C++ 2014](http://meetingcpp.com) (Dicembre, a Berlino). Se volete unirvi alla nostra spedizione scriveteci. Sul fronte delle collaborazioni abbiamo un canale aperto con [isocpp.org](https://isocpp.org) (per il quale ho titolo di blog contributor) e [siamo riconosciuti ufficialmente](https://isocpp.org/wiki/faq/user-groups-worldwide).
 
 Ricordiamo la **promozione** di 5$ per l’acquisto del libro [C++11 Rocks](http://cpprocks.com) dedicata al nostro meetup: codice promozionale **MILAN\_CPP**.
 
-Nella mia introduzione ho inoltre ricordato a tutti la possibilità di [diventare autori sul nostro sito](http://www.italiancpp.org/articoli/diventa-un-autore/), con la spettacolare opportunità degli **snippet** **compilabili** (dei quali potete trovare esempi [qui](../../../02/03/una-sbirciatina-al-cpp14/index.html) e [qui](../../../05/26/brace-initialization-inside-a-lambda-capture-list/index.html)) che al momento abbiamo solo noi 🙂 (ancora un ennesimo grazie a Stefano).
+Nella mia introduzione ho inoltre ricordato a tutti la possibilità di diventare autori sul nostro sito, con la spettacolare opportunità degli **snippet** **compilabili**.
 
 Prego tutti i partecipanti di [lasciare feedback su joind.in](http://joind.in/event/view/2246)!
 
