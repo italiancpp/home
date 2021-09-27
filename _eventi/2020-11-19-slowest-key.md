@@ -36,8 +36,6 @@ Snippet che abbiamo scritto:
 
 **Marco Arena** lavora come AI Software Engineer in Tetra Pak. Dal 2011 al 2019 ha lavorato nel team di Formula 1 della Ferrari sviluppando software mission-critical relativo a telemetria e simulazioni. Marco è fondatore di Italian C++ Community, Coding Gym, ML Modena. Microsoft lo premia col titolo di "MVP" dal 2016.
 
-**Mattia Verasani** è Machine Learning Engineer in Tetra Pak.
-
 ### Video dell'evento
 
 {% include video id="rXx57cp4G4U" provider="youtube" %}
