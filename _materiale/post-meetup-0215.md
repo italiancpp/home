@@ -6,6 +6,7 @@ layout: splash
 <center>
 <img src="https://ilpropheta.github.io/pics/meetup-pn15.png" alt="meetup Pordenone">
 </center>
+<br/>
 
 Il nuovo anno è iniziato alla grande per l’Italian C++ Community! Lo scorso Sabato 7 Febbraio ci siamo incontrati a Pordenone ed eravamo circa **80** **C++-isti**! Un risultato che ha superato ogni aspettativa!
 
