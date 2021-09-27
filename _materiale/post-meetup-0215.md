@@ -20,7 +20,7 @@ Ci auguriamo che questo meetup sia solo l’inizio di una collaborazione col Co
 
 La giornata è stata ricca di contenuti e divisa in una traccia unica la mattina (1 keynote + 2 sessioni) e due tracks parallele (3 sessioni l’una) al pomeriggio. Il tema: **“Perché nel 2015 parliamo ancora di C++?”**.
 
-[Da qui è possibile rivedere l’agenda e scaricare le presentazioni](eventi/2015-02-07-meetup-pordenone).
+[Da qui è possibile rivedere l’agenda e scaricare le presentazioni](https://italiancpp.org/eventi/2015-02-07-meetup-pordenone/).
 
 Ogni speaker ha detto la sua, focalizzandosi su un particolare argomento o dominio di interesse. Il mio _keynote_ è stato un apripista: ho raccontato la mia visione attraverso 8 segreti che – a mio avviso – rendono il C++ un linguaggio speciale ed evoluto. Ho in mente di scrivere qualche post di approfondimento, così potrò riproporre la mia storia anche a chi non c’era.
 
