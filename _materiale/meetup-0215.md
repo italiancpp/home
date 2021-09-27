@@ -1,5 +1,5 @@
 ---
-title: "Dettagli Meetup Bologna 2014"
+title: "Dettagli Meetup Pordenone 2015"
 layout: splash
 ---
 
