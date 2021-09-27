@@ -3,7 +3,7 @@ title: "Meetup Milano 2014"
 layout: splash
 ---
 
-[![intro_meetup](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2014/06/intro_meetup.jpg?resize=592%2C394)](https://i0.wp.com/www.italiancpp.org/wp-content/uploads/2014/06/intro_meetup.jpg)
+[![intro_meetup](/assets/images/eventi/meetup0614.jpg)
 
 Lo scorso 28 Giugno abbiamo organizzato il primo meetup della community, a Milano. **Oltre 30 partecipanti** (più delle aspettative) e **4 speakers** eccezionali. Unica nota negativa è il non essere riusciti a trasmettere i contenuti in streaming…Youtube ci ha tradito! Per fortuna la nostra fotografa [Francesca](https://twitter.com/Hetepheres_com) ha realizzato numerosi scatti (potete trovarli sul [nostro gruppo facebook](https://www.facebook.com/media/set/?set=oa.477428019058858&type=1))!
 
