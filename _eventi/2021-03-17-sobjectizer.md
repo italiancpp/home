@@ -24,7 +24,7 @@ SObjectizer is a mature and stable project that isn't particularly famous among 
 
 ### Il relatore
 
-Nicolai Grodzitski is a C++ with 10+ years of professional experience. He's been developing server applications (telecom, multi-threaded applications, distributed applications, 24/7) and server utilities. He's contributed to a number of open-source projects, most notable of which are SObjectizer and RESTinio.
+**Nicolai Grodzitski** is a C++ with 10+ years of professional experience. He's been developing server applications (telecom, multi-threaded applications, distributed applications, 24/7) and server utilities. He's contributed to a number of open-source projects, most notable of which are SObjectizer and RESTinio.
 
 ### Video dell'evento
 

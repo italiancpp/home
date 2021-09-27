@@ -27,7 +27,7 @@ We will see two of the most famous libraries, understand the strengths and weakn
 
 ### Il relatore
 
-Michele Caini.
+**Michele Caini** is a freelancer, Senior Software Engineer... What else?
 
 ### Video dell'evento
 

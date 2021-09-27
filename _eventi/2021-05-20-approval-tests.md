@@ -27,7 +27,7 @@ Vedremo come i test di approvazione siano molto utili nel caso di codice che pro
 
 ### Il relatore
 
-Yuri Valentini ha sviluppato firmware e software per automazione industriale, per il settore biomedicale e nel campo della telefonia e videoconferenza, utilizzando i linguaggi di programmazione C/C++, C# e Python, cercando di adottare le pratiche agili per lo sviluppo del software.
+**Yuri Valentini** ha sviluppato firmware e software per automazione industriale, per il settore biomedicale e nel campo della telefonia e videoconferenza, utilizzando i linguaggi di programmazione C/C++, C# e Python, cercando di adottare le pratiche agili per lo sviluppo del software.
 
 ### Video dell'evento
 
