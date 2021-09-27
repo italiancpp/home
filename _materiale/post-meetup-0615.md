@@ -3,6 +3,8 @@ title: "Meetup Firenze 2015"
 layout: splash
 ---
 
+# Meetup Firenze 2015: Wrap-up post
+
 <center>
 <img src="https://ilpropheta.github.io/pics/meetup-firenze15.png" alt="meetup Pordenone">
 </center>

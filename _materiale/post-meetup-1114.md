@@ -3,6 +3,8 @@ title: "Meetup Bologna 2014"
 layout: splash
 ---
 
+# Meetup Bologna 2014: Wrap-up post
+
 <center>
 <img src="https://ilpropheta.github.io/pics/meetup-bo14.png" alt="meetup Bologna">
 </center>
