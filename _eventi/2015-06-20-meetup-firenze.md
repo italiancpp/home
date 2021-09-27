@@ -21,7 +21,7 @@ Questo evento dell'Italian C++ Community, a Firenze (**Grand Hotel Mediterraneo*
 <center>
 <img src="https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2013/04/DSC_1355-e1422297523115.jpg?resize=300%2C284&ssl=1" alt="Bartosz Milewski">
 <br/>
-**Speaker d'eccezione**: Bartosz Milewski
+<strong>Speaker d'eccezione</strong>: Bartosz Milewski
 </center>
 <br/>
 
