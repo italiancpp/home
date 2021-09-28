@@ -277,13 +277,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _recipes
+  # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
   # _pets
   - scope:
