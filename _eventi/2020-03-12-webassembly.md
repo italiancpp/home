@@ -24,10 +24,7 @@ Presentazione sulla tecnologia WebAssembly per cosa é stato progettata e come c
 
 ### Il relatore
 
-**Michele Mischitelli** is a passionate 3D & C++ developer, always curious about new technologies, both in hardware and software.
-
-* Web site: https://mmischitelli.github.io
-* Github: https://github.com/mmischitelli
+**Lorenzo Veneri** da più di 10 anni sviluppa soluzioni software ed effettua manutenzione di applicativi principlamente in c#, SQL e tecnologie legate al web ma è anche appassionato di tecnologia e C++.
 
 ### Video dell'evento
 
