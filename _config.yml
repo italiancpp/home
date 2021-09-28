@@ -14,7 +14,7 @@ title                    : "Italian C++ Community"
 title_separator          : "-"
 subtitle                 : "Italian C++ Community"
 name                     : ""
-description              : "Homepage"
+description              : "Italian C++ Community - la comunità italiana dedicata al linguaggio di programmazione C++"
 url                      : https://italiancpp.org
 baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
