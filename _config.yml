@@ -261,7 +261,7 @@ compress_html:
 
 # Collections
 collections:
-  materiale:
+  posts:
     output: true
     permalink: /:collection/:path/
   eventi:
@@ -290,7 +290,7 @@ defaults:
   # _recipes
   - scope:
       path: ""
-      type: materiale
+      type: posts
     values:
       layout: single
       author_profile: true
