@@ -269,17 +269,7 @@ collections:
     permalink: /:collection/:path/
   
 # Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      share: true
-      related: true
+defaults:  
   # _pages
   - scope:
       path: "_pages"
@@ -289,7 +279,7 @@ defaults:
       author_profile: true
   # _recipes
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
