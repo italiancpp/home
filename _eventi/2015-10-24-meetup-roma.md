@@ -20,7 +20,7 @@ Questo evento dell'Italian C++ Community, a Roma (**Università degli Studi "Rom
 
 ![foto del meetup](https://ilpropheta.github.io/pics/meetup-roma15.png)
 
-#### Durante l’evento, abbiamo estratto 3 copie di “Effective Modern C++” di Scott Meyers!
+**Durante l’evento, abbiamo estratto 3 copie di “Effective Modern C++” di Scott Meyers!**
 
 ### Agenda
 

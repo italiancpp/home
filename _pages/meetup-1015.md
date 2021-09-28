@@ -14,9 +14,9 @@ Clang è parte integrante di LLVM, un progetto a largo spettro che fornisce un�
 
 Questo talk farà un viaggio all’interno dell’implementazione di Clang, analizzando il funzionamento del front-end, fino ad arrivare al codice intermedio LLVM, dando anche un’occhiata al back-end. Scopriremo che un programmatore C++, anche se non si occupa di scrivere compilatori, può imparare molto da questo progetto.
 
-materiale:
+Materiale:
 
-- [Slides](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2015/10/Nicola-Gigante-Clang.pdf)
+- [Slides](https://italiancpp.github.io/wp-statico/www.italiancpp.org/wp-content/uploads/2015/10/Nicola-Gigante-Clang.pdf)
 - [Video](https://www.youtube.com/watch?v=ndLy3NwB7Kc)
 
 ### Applicazioni mobili ibride C++/C#
@@ -27,7 +27,7 @@ Come sviluppare applicazioni multipiattaforma per sistemi mobili (iOS, Android e
 
 Materiale:
 
-- [Slides](https://i2.wp.com/www.italiancpp.org/wp-content/uploads/2015/10/Franco-Milicchio-Xamarin.pdf)
+- [Slides](https://italiancpp.github.io/wp-statico/www.italiancpp.org/wp-content/uploads/2015/10/Franco-Milicchio-Xamarin.pdf)
 - [Video](https://www.youtube.com/watch?v=hXdmSVD_vZk)
 
 
@@ -39,7 +39,7 @@ Bridge per Microsoft è uno dei progetti più importanti, soprattutto in ambito 
 
 Materiale:
 
-- [Slides](https://i1.wp.com/www.italiancpp.org/wp-content/uploads/2015/10/Gaetano-Paternò-MS-Bridge.pdf)
+- [Slides](https://italiancpp.github.io/wp-statico/www.italiancpp.org/wp-content/uploads/2015/10/Gaetano-Paternò-MS-Bridge.pdf)
 - [Video](https://www.youtube.com/watch?v=BQqwIWJxQJw)
   
 ### C++ meets JS (V8 in brevis)
