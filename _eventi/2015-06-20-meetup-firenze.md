@@ -35,16 +35,16 @@ L'evento è stato organizzato con [Develer](https://www.develer.com/).
 | :-: | :-: |
 |08.30 – 09.00|	Registrazione|
 |09.00 – 09.20|	Presentazione della giornata (Marco Arena)|
-|09.20 – 10.05| [C++ and Why you Care](https://italiancpp.org/meetup-0615/#c-and-why-you-care) (Gian Lorenzo Meocci)|
-|10.15 – 10.45 |[Teaching C++14 on Raspberry PI 2](https://italiancpp.org/meetup-0615/#teaching-c14-on-raspberry-pi-2)(Marco Foco)|
+|09.20 – 10.05| [C++ and Why you Care](https://italiancpp.org/meetup-0615#c-and-why-you-care) (Gian Lorenzo Meocci)|
+|10.15 – 10.45 |[Teaching C++14 on Raspberry PI 2](https://italiancpp.org/meetup-0615#teaching-c14-on-raspberry-pi-2)(Marco Foco)|
 |10.45 – 11.10 |Break|
-|11.10 – 12.10 |[Qt e C++: binomio perfetto](https://italiancpp.org/meetup-0615/#qt-e-c-binomio-perfetto) (Luca Ottaviano)|
-|12.15 – 13.00 |[Cat's Anatomy: a C++14 Functional Library](https://italiancpp.org/meetup-0615/#cats-anatomy-a-c14-functional-library) (Nicola Bonelli)|
+|11.10 – 12.10 |[Qt e C++: binomio perfetto](https://italiancpp.org/meetup-0615#qt-e-c-binomio-perfetto) (Luca Ottaviano)|
+|12.15 – 13.00 |[Cat's Anatomy: a C++14 Functional Library](https://italiancpp.org/meetup-0615#cats-anatomy-a-c14-functional-library) (Nicola Bonelli)|
 |13.00 – 14.20 |Pranzo|
-|14.20 – 15.20| [Introduzione al game-development in C++11/C++14](https://italiancpp.org/meetup-0615/#introduzione-al-game-development-in-c11c14)	(Vittorio Romeo)|
-|15.30 – 16.30 |[Solving Constraint Satisfaction Problem using monads](https://italiancpp.org/meetup-0615/#solving-constraint-satisfaction-problem-using-monads) (Bartosz Milewski)|
+|14.20 – 15.20| [Introduzione al game-development in C++11/C++14](https://italiancpp.org/meetup-0615#introduzione-al-game-development-in-c11c14)	(Vittorio Romeo)|
+|15.30 – 16.30 |[Solving Constraint Satisfaction Problem using monads](https://italiancpp.org/meetup-0615#solving-constraint-satisfaction-problem-using-monads) (Bartosz Milewski)|
 |16.30 – 17.00 |Break|
-|17.00 – 18.00 |[Utilize your CPU power – Cache optimizations and SIMD instructions](https://italiancpp.org/meetup-0615/#utilize-your-cpu-power--cache-optimizations-and-simd-instructions) (Mario Mulansky)|
+|17.00 – 18.00 |[Utilize your CPU power – Cache optimizations and SIMD instructions](https://italiancpp.org/meetup-0615#utilize-your-cpu-power--cache-optimizations-and-simd-instructions) (Mario Mulansky)|
 |18.00 – 18.15 |Saluti (Marco Arena)|
 
 ### Materiale
