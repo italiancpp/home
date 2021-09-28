@@ -1,6 +1,7 @@
 ---
 title: "Dettagli Meetup Firenze 2015"
 layout: splash
+permalink: /meetup-0615
 ---
 
 ### C++ and why you care

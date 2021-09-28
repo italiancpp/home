@@ -25,13 +25,13 @@ Sessioni (4 da 30 minuti l'una) durante la mattina, pranzo insieme a seguire.
 | Orario |Talk |
 | ------ | ------ |
 | 10:00 - 10:15 | Introduzione (Marco Arena) |
-|10.30 – 11.00|	[Lambda Recipes (Gian Lorenzo Meocci)](/pages/meetup-0614/#lambda-recipes)|
-|11.05 – 11.35|	[Async-Await in C++ (Paolo Severini)](/pages/meetup-0614/#async-await-in-c)|
-|11.45 – 12.15|	[Static Polymorphism and Type Classes in C++ (Nicola Bonelli)](/pages/meetup-0614/#static-polymorphism-and-type-classes-in-c) |
-|12.20 – 12.50|	[Actor-Model in C++ (Gianluca Padovani)](/pages/meetup-0614/#actor-model-in-c) |
-|12.55 – 13.25|	[Ask Us Everything (tutti)](/pages/meetup-0614/#ask-us-everything) |
+|10.30 – 11.00|	[Lambda Recipes (Gian Lorenzo Meocci)](/meetup-0614/#lambda-recipes)|
+|11.05 – 11.35|	[Async-Await in C++ (Paolo Severini)](/meetup-0614/#async-await-in-c)|
+|11.45 – 12.15|	[Static Polymorphism and Type Classes in C++ (Nicola Bonelli)](/meetup-0614/#static-polymorphism-and-type-classes-in-c) |
+|12.20 – 12.50|	[Actor-Model in C++ (Gianluca Padovani)](/meetup-0614/#actor-model-in-c) |
+|12.55 – 13.25|	[Ask Us Everything (tutti)](/meetup-0614/#ask-us-everything) |
 
 ### Materiale
 
-- [Wrap-up Post](/posts/meetup-0614)
+- [Wrap-up Post](/posts/2014-07-01-meetup-0614)
 - [📸 Foto](https://www.facebook.com/media/set/?set=oa.477428019058858&type=3)

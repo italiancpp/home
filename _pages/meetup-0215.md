@@ -1,6 +1,7 @@
 ---
 title: "Dettagli Meetup Pordenone 2015"
 layout: splash
+permalink: /meetup-0215
 ---
 
 ### Keynote: Perché nel 2015 parliamo ancora di C++?

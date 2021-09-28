@@ -1,6 +1,7 @@
 ---
 title: "Dettagli Meetup Bologna 2014"
 layout: splash
+permalink: /meetup-1114
 ---
 
 ### Convincetemi ad usare il C++14

@@ -1,6 +1,7 @@
 ---
 title: "Dettagli Meetup Milano 2014"
 layout: splash
+permalink: /meetup-0614
 ---
 
 ### Lambda Recipes
