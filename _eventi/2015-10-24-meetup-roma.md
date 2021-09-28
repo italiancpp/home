@@ -28,12 +28,12 @@ Questo evento dell'Italian C++ Community, a Roma (**Università degli Studi "Rom
 | :-: | :-: |
 |08.30 – 09.00|	Registrazione	|
 |09.00 – 09.15|	Presentazione della giornata (Marco Arena)|
-|09.15 – 10.15|	All’interno di Clang e LLVM	(Nicola Gigante)|
-|10.25 – 10.55|	Applicazioni mobili ibride C++/C#	(Franco Milicchio)|
+|09.15 – 10.15|	[All’interno di Clang e LLVM](https://italiancpp.org/meetup-1015#allinterno-di-clang-e-llvm)	(Nicola Gigante)|
+|10.25 – 10.55|	[Applicazioni mobili ibride C++/C#](https://italiancpp.org/meetup-1015#applicazioni-mobili-ibridecc)	(Franco Milicchio)|
 |10.55 – 11.15|	Break	|
 |11.15 – 11.20|	Estrazioni copie "Effective Modern C++"	|
-|11.20 – 12.20|	Conoscete Microsoft Bridge?	(Gaetano Paternò)|
-|12.30 – 13.00|	C++ meets Javascript (V8 in brevis)	(Gian Lorenzo Meocci)|
+|11.20 – 12.20|	[Conoscete Microsoft Bridge?](https://italiancpp.org/meetup-1015#conoscete-microsoft-bridge)	(Gaetano Paternò)|
+|12.30 – 13.00|	[C++ meets Javascript (V8 in brevis)](https://italiancpp.org/meetup-1015#c-meets-js-v8-in-brevis)	(Gian Lorenzo Meocci)|
 |13.00 – 15.30|	Pranzo + Networking	Tutti!|
 
 ### Materiale
