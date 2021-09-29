@@ -114,7 +114,7 @@ If you’re looking for a fast and lightweight open-source code editor, Visual S
 
 Material:
 
-- [Slides](https://github.com/italiancpp/itcppcon20/blob/master/C%2B%2B%20Development%20with%20Visual%20Studio%20Code%20-%20Julia%20Reid.pdf
+- [Slides](https://github.com/italiancpp/itcppcon20/blob/master/C%2B%2B%20Development%20with%20Visual%20Studio%20Code%20-%20Julia%20Reid.pdf)
 - [Video](https://www.youtube.com/watch?v=j4nF0NrfdiE&t=1292s)
 
 #### The Silicon Valley coding interview
