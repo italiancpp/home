@@ -2,6 +2,7 @@
 title: "Iscriviti"
 layout: splash
 permalink: /join
+toc: true
 ---
 <br/>
 
@@ -20,18 +21,20 @@ Quindi ti proponiamo di entrare nello straordinario ecosistema di Italian C++ Co
 
 ## Slack
 
-Entra nel nostro team **Slack** per interagire con gli altri partecipanti. Inoltre potrai ricevere aggiornamenti su:
+Entra nel nostro team **Slack** per interagire con gli altri partecipanti e per ricevere aggiornamenti su:
 
-- offerte di lavoro, sul canale #jobs
-- notizie dal mondo C++, sul canale #news
-- articoli e risorse consigliate, sul canale #learn
-- eventi, sul canale #events
+- offerte di lavoro, sul canale *#jobs*
+- notizie dal mondo C++, sul canale *#news*
+- articoli e risorse consigliate, sul canale *#learn*
+- eventi, sul canale *#events*
+
+**Attenzione:** le richieste sono moderate dal nostro staff.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeLycljtae4yBKVH-YEMZVSQywqgDg_WbSaX460K4yPiBEj7w/viewform?embedded=true" width="640" height="810" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
 
 ## Newsletter
 
-Iscriviti alla newsletter per rimanere aggiornato sulle nostre iniziative e per ricevere codici sconto e promozioni dai nostri partner. L'invio della newsletter dipende dalle attività che abbiamo in programma e non super un invio al mese.
+Iscriviti alla newsletter per rimanere aggiornato sulle nostre iniziative e per ricevere codici sconto e promozioni dai nostri partner. L'invio della newsletter dipende dalle attività che abbiamo in programma e non supera la cadenza mensile.
 
 [Iscriviti alla newsletter](http://eepurl.com/hjZ-en)
 
@@ -42,6 +45,8 @@ Apri le tue discussioni e chiedi aiuto in Italiano sul C++ attraverso il nostro 
 [Visita il subreddit di ++it](https://www.reddit.com/r/cppit/)
 
 ## Mappa del C++-isti italiani nel mondo
+
+Dove sono i C++-isti italiani nel mondo?
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1kq4qEWdgLfxmDj2QOc8jIgH3yZc" width="640" height="580"></iframe>
 
