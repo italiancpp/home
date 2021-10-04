@@ -16,7 +16,7 @@
         {% for post in site.eventi %}    
             {% if post.date >= site.time %}
                 <script>
-					cal.addEvent('Prova', 'Prova descrizione', 'Location', '10/04/2021', '10/04/2021');
+					cal.addEvent(post.title, post.excerpt, '', {{ post.date }}, {{ post.date }});
 				</script>				
             {% endif %}
         {% endfor %}
