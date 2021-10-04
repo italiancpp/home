@@ -16,12 +16,12 @@
         {% for post in site.eventi %}    
             {% if post.date >= site.time %}
                 <script>
-					cal.addEvent('{{ post.title }}', '{{ post.excerpt }}', '', '{{ post.date }}', '{{ post.date }}');
+					cal.addEvent('{{ post.excerpt }}', '{{ post.title }}', '', '{{ post.date }}', '{{ post.date }}');
 				</script>				
             {% endif %}
         {% endfor %}
 		<script>
-			console.log(cal.calendar());
+			cal.calendar();
 		</script>
     </div>
 </body>
