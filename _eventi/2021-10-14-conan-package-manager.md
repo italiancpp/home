@@ -29,12 +29,6 @@ The Conan package manager for C++ is useful in both simple and advanced developm
 
 **Diego Rodriguez-Losada Gonzalez**'s passions are robotics and SW engineering and development. He has developed many years in C and C++ in the Industrial, Robotics and AI fields. Diego was also a University (tenure track) professor and robotics researcher for 8 years, till 2012, when he quit academia to try to build a C/C++ dependency manager and co-founded a startup. Since then he mostly develops in Python. Diego is a conan.io C/C++ package manager co-creator and maintainer, now working at JFrog as senior SW engineer and C/C++ advocate.
 
-### Iscrizioni
-
-Iscriviti e scopri come partecipare sul sito del nostro host:
-
-[➕ Iscriviti all'evento](https://conoscerelinux.org/courses/meetupcpp_1021/){: .btn .btn--primary .btn--large}
-
 ### Video dell'evento
 
 Se desideri seguire la diretta YouTube e partecipare da remoto:
