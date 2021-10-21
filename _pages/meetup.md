@@ -27,7 +27,7 @@ The most popular meetup formats we have hosted up to now are:
 -  **moderated round-table** (the speaker moderates an interactive session to debate about a specific topic by asking questions to the audience)
 - **live coding** (a structured “no-slides” talk)
 
-**By default**, we assume the speaker submit a proposal for a **technical session** but in case you like setting up something else, please just add some notes about that.
+For other formats, please choose "Other" and drop some lines in the notes.
 
 ## Acceptance
 
