@@ -4,6 +4,9 @@ layout: splash
 permalink: /meetup
 ---
 
+<br/>
+
+# Speak at our monthly meetups in Modena or online
 
 We are currently organizing **hybrid meetups**. The meetups are physically hosted at [MakeIt Modena](https://www.google.com/maps/place/Palestra+Digitale+MakeitModena/@44.6594541,10.8945142,15z/data=!4m2!3m1!1s0x0:0x9604568cf54b2b99?sa=X&ved=2ahUKEwiO1s_vwdvzAhXD_rsIHQL9DoIQ_BJ6BAhoEAU) and can accommodate up to 15 people (due to the current Covid-19 regulations).
 
