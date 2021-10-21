@@ -6,5 +6,5 @@ main:
     url: /join
   - title: "Eventi"
     url: /archivio-eventi
-  - title: "Privacy Policy"
-    url: /privacy-policy
+  - title: "Proponi un talk"
+    url: /meetup

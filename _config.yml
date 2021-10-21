@@ -129,6 +129,9 @@ footer:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:info@italiancpp.org"
+    - label: "Privacy Policy"
+      icon: "fas fa-eye"
+      url: "https://italiancpp.org/privacy-policy"
 
 
 # Reading Files
