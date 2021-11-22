@@ -29,14 +29,10 @@ For twelve years, think-cell had been a Windows-only software company and their 
 
 **Sebastian Theophil** studied Computer Science in Berlin and Toulouse and holds a Ph.D. in Computer Science from the Humboldt University of Berlin. He has been working at think-cell Software since its founding in 2002 and has recently been working on porting think-cell to the Mac.
 
-### Iscrizioni
-
-Iscriviti e scopri come partecipare sul sito del nostro host:
-
-[➕ Iscriviti all'evento](https://conoscerelinux.org/courses/meetupcpp_1121/){: .btn .btn--primary .btn--large}
-
 ### Video dell'evento
 
 Se desideri seguire la diretta YouTube e partecipare da remoto:
 
 {% include video id="ssb4Uhs1y1w" provider="youtube" %}
+
+- [Slides](https://www.think-cell.com/en/career/talks/cross-platform/)
