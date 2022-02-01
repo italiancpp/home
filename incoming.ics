@@ -27,10 +27,20 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20211004T144247Z
 UID:20211004T144247Z-116213633
-DTSTART;TZID=Europe/Berlin:20211216T183000
-DTEND;TZID=Europe/Berlin:20211216T200000
-SUMMARY:Getting started with the Reader Monad in C++
-URL:https://italiancpp.org/eventi/2021-12-16-monads/
+DTSTART;TZID=Europe/Berlin:20220217T183000
+DTEND;TZID=Europe/Berlin:20220217T200000
+SUMMARY:C++ Micro Problems
+URL:https://italiancpp.org/eventi/2022-02-17-micro-problems/
+DESCRIPTION:Meetup Italian C++ Community in Modena
+LOCATION:MakeIt Modena
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211004T144247Z
+UID:20211004T144247Z-116213633
+DTSTART;TZID=Europe/Berlin:20220310T183000
+DTEND;TZID=Europe/Berlin:20220310T200000
+SUMMARY:C++20 for the daily job
+URL:https://italiancpp.org/eventi/2022-03-10-cpp20/
 DESCRIPTION:Meetup Italian C++ Community in Modena
 LOCATION:MakeIt Modena
 END:VEVENT
