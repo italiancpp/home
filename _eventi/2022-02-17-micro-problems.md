@@ -32,14 +32,9 @@ Davide Di Gennaro loves to introduce himself as a mathematician, but a better de
 He works for big companies, where his real identity is ignored, and he spends his free time as a photographer.
 Someone said that "he makes the impossible possible".
 
-### Iscrizioni
-
-Iscriviti e scopri come partecipare sul sito del nostro host:
-
-[➕ Iscriviti all'evento](https://conoscerelinux.org/courses/meetupcpp_0222/){: .btn .btn--primary .btn--large}
-
 ### Video e materiale dell'evento
 
-Se desideri seguire l'evento da casa:
+- [Slides](https://github.com/italiancpp/meetups/blob/main/C%2B%2B%20Micro%20Problems%20-%20Davide%20Di%20Gennaro.pdf)
+- Video:
 
 {% include video id="xrh_Dn5glU8" provider="youtube" %}
