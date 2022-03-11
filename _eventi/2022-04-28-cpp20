@@ -1,0 +1,49 @@
+---
+title: "C++20 for the daily job"
+excerpt: "Meetup...in presenza!"
+read_time: false
+related: false
+show_date: true
+toc: true
+share: true
+comments: false
+author_profile: false
+tags:
+  - community
+  - meetup
+  - cpp20
+---
+
+Tornano i meetup C++ **in presenza** realizzati dall'Italian C++ Community e ospitati da ConoscereLinux!
+
+Ogni incontro prevede la condivisione di un argomento, spazio per le domande e poi una pizza tutti insieme.
+Il formato della presentazione può variare ed è deciso dal relatore ospite della serata: talk frontale, workshop, live coding, ecc.
+
+Gli incontri, **come avveniva prima dell'emergenza sanitaria**, saranno trasmessi **anche** in diretta streaming. Per interagire con il resto della community, richiedi (se non ce l'hai già) l'accesso al nostro [team slack](https://italiancpp.org/join) ed entra sul canale *#meetup-modena*.
+
+### La sessione
+
+C++20 è una major release dello standard che introduce novità come Concepts, Ranges e Modules che stavamo aspettando da tanti anni. Tuttavia queste "big features" sono piuttosto invasive e rivoluzionarie, rendendo l'adozione del C++20 ancora più ardua rispetto ai suoi ultimi predecessori. 
+Ma i nostri compilatori sono pronti e magari sta partendo proprio ora un nuovo progetto completamente isolato...
+
+*"Mamma, posso accendere il C++20?"*
+
+Vi racconterò quelle feature del C++20 che vi permetteranno di introdurlo in maniera incrementale, come se fosse una sorta di "Service Pack" di C++17. Feature preziose che vi daranno piccoli e grandi benefici ma che non richiedono uno stravolgimento delle vostre codebase.
+
+### Il relatore
+
+Marco Arena lavora in Tetra Pak come AI Software Engineer. Dal 2011 al 2019 ha lavorato nel team F1 della Ferrari e ha guidato, negli anni, l'adozione dei nuovi standard del C++.
+
+Fondatore dell'[Italian C++ Community](https://italiancpp.org/), [Coding Gym](https://coding-gym.org/) e [ML Modena](https://mlmodena.it/), dal 2016 Microsoft gli conferisce il titolo di [MVP](https://mvp.microsoft.com/it-it/PublicProfile/5001726).
+
+### Iscrizioni
+
+Iscriviti e scopri come partecipare sul sito del nostro host:
+
+[➕ Iscriviti all'evento](https://conoscerelinux.org/courses/meetupcpp_0322/){: .btn .btn--primary .btn--large}
+
+### Video e materiale dell'evento
+
+Se desideri seguire l'evento da casa:
+
+{% include video id="-Zuftu_Fpqo" provider="youtube" %}
