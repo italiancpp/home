@@ -26,11 +26,17 @@ I would like to recall some numbers and important dates:
 * Total number of events attendees: 1040
 * Newsletter subscribers: 1000+
 
-![First meetup in Milan: June 2014](https://github.com/italiancpp/wp-statico/blob/master/www.italiancpp.org/wp-content/uploads/2014/05/MG_9382.jpg?raw=true)
+<center>
+<img src="https://github.com/italiancpp/wp-statico/blob/master/www.italiancpp.org/wp-content/uploads/2014/05/MG_9382.jpg?raw=true" width="80%" alt="First meetup in Milan: June 2014">
 First meetup in Milan: June 2014 (30 attendees)
+</center>
+<br/>
 
-![Italian C++ Conference 2018, Milan](https://github.com/italiancpp/wp-statico/blob/master/www.italiancpp.org/wp-content/uploads/2018/06/WP_20180623_11_26_00_Panorama.jpg?raw=true)
+<center>
+<img src="https://github.com/italiancpp/wp-statico/blob/master/www.italiancpp.org/wp-content/uploads/2018/06/WP_20180623_11_26_00_Panorama.jpg?raw=true" width="80%" alt="Italian C++ Conference 2018">
 Italian C++ Conference 2018, Milan (200 persone)
+</center>
+<br/>
 
 For the last 5 years, our commitment has been spreading around C++ best-practices and good resources, and connecting people with the Italian C++ ecosystem through the online community and events. We have organized events, given dozen of talks, facilitated workshops and produced articles and tutorials about C++, connected with other communities and events (not only about C++).
 
@@ -136,10 +142,13 @@ Adopting this model, I imagine the following activities:
 
 If you are interested in running events, activities or meetups about C++ in Italy, even small ones, please [get in touch](https://www.italiancpp.org/chi-siamo/contattaci/). ++it and I will be very happy to help and give support!
 
-I have written \[this page\](https://www.italiancpp.org/organize/) (in Italian) with more details.
-![](https://github.com/italiancpp/wp-statico/blob/master/www.italiancpp.org/wp-content/uploads/2018/06/35652318_2011631675818205_1209420983341940736_o.jpg?raw=true)
+I have written [this page](https://www.italiancpp.org/organize/) (in Italian) with more details.
 
+<center>
+<img src="https://github.com/italiancpp/wp-statico/blob/master/www.italiancpp.org/wp-content/uploads/2018/06/35652318_2011631675818205_1209420983341940736_o.jpg?raw=true" width="80%" alt="Italian C++ Staff in 2018">
 Italian C++ Conference 2018 Staff. From left: Marco Foco, Raffaele Rialdi, Guido Pederzini, Marco Arena, Illya Dudchenko, Alessandro Vergani, Gian Lorenzo Meocci.
+</center>
+<br/>
 
 That’s it for now! Thank you very much for reading. I hope to meet/see you in person very soon.
 
