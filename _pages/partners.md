@@ -6,6 +6,8 @@ permalink: /partners
 
 <br />
 
+# Partners
+
 <div class="grid-partners">
   <div><a href="https://meetingcpp.com/"><img src="/assets/images/partners/meetingcpp.png" alt="Meeting C++"></a></div>
   <div><a href="https://cppcon.org/"><img src="/assets/images/partners/cppcon.png" alt="CppCon"></a></div>
