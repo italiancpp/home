@@ -6,5 +6,7 @@ main:
     url: /join
   - title: "Eventi"
     url: /archivio-eventi
+  - title: "Partners"
+    url: /partners
   - title: "Proponi un talk"
     url: /meetup
