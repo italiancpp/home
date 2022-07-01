@@ -13,9 +13,9 @@ The Italian C++ Community has organized monthly meetups in Modena **since 2017**
 Due to the Covid-19 emergency, we are currently organizing **hybrid meetups**. The meetups are physically hosted at [MakeIt Modena](https://www.google.com/maps/place/Palestra+Digitale+MakeitModena/@44.6594541,10.8945142,15z/data=!4m2!3m1!1s0x0:0x9604568cf54b2b99?sa=X&ved=2ahUKEwiO1s_vwdvzAhXD_rsIHQL9DoIQ_BJ6BAhoEAU) and can accommodate up to 15 people (due to the current Covid-19 regulations).
 
 Basically, hosting "hybrid" meetups means that:
-- up to 15 people attend in person ([green pass](https://www.dgc.gov.it/web/) and face mask are mandatory);
+- up to 25 people attend in person (facemask is recommended but not mandatory);
 - the speaker can be either in person or remote;
-- the session gets live on [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw). Also, a [Slack](https://italiancpp.org/slack) channel is dedicated for interacting online during and after the session.
+- the session will be live on [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw). Also, a [Slack](https://italiancpp.org/slack) channel is dedicated for interacting online during and after the session.
 
 The meetup starts at **6:30 PM (GMT+1)**, with **1-hour** technical session starting at **7 PM**. After the session, the attendees on site go to a pizzeria nearby, dining all together and having some **networking**.
 
@@ -33,7 +33,7 @@ For other formats, please choose "Other" and drop some lines in the notes.
 
 ## Acceptance
 
-As soon as we receive a proposal for a certain date, we reserve that date for the speaker who have submitted the proposal. **The date is not 100% binding**: we usually meet **every 2nd Thursday** of each month, but we are flexible to change with some notice.
+**First come, first served:** we reserve the slot as soon as we receive a proposal. **The date is not 100% binding**: we usually meet **every 2nd Thursday** of each month, but we are flexible to change with some notice.
 
 ## Propose your session
 
