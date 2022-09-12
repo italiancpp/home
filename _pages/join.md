@@ -21,16 +21,7 @@ Quindi ti proponiamo di entrare nello straordinario ecosistema di Italian C++ Co
 
 ## Slack
 
-Entra nel nostro team **Slack** per interagire con gli altri partecipanti e per ricevere aggiornamenti su:
-
-- offerte di lavoro, sul canale *#jobs*
-- notizie dal mondo C++, sul canale *#news*
-- articoli e risorse consigliate, sul canale *#learn*
-- eventi, sul canale *#events*
-
-**Attenzione:** le richieste sono moderate dal nostro staff quindi potrebbe passare del tempo dall'inivio della richiesta all'arrivo dell'invito. Assicurati di compilare correttamente il "captcha" e attendi pazientemente.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeLycljtae4yBKVH-YEMZVSQywqgDg_WbSaX460K4yPiBEj7w/viewform?embedded=true" width="640" height="810" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+**ATTENZIONE:** Stiamo migrando a Discord. Al momento, le richieste per entrare nel nostro Slack sono state sospese. A breve inseriremo il link ad un invito per unirsi al nostro nuovo server Discord. Tieni d'occhio il sito!
 
 ## Newsletter
 
