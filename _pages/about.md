@@ -52,7 +52,7 @@ La **missione di ++it**:
 
 *   [Newsletter](/join), per aggiornarvi sulle nostre attività e sull’ecosistema internazionale del C++;
 
-*   [Team Slack](/join), per interagire con gli altri partecipanti e per ricevere aggiornamenti su **news**, **risorse consigliate**, **eventi**, **offerte di lavoro** riguardanti il C++;
+*   [Server Discord](/join), per interagire con gli altri partecipanti e per ricevere aggiornamenti su **news**, **risorse consigliate**, **eventi**, **offerte di lavoro** riguardanti il C++;
 
 *   Organizzazione di [eventi](/archivio-eventi) (anche internazionali) e meetup (ricorrenti sul territorio);
 
