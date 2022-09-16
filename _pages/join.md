@@ -14,14 +14,14 @@ Quindi ti proponiamo di entrare nello straordinario ecosistema di Italian C++ Co
 
 - i **canali social** (che trovi sul fondo di questa pagina),
 - gli **eventi** (fisici o virtuali),
-- il **team Slack** con i canali tematici in Italiano dedicati al C++
+- il **server Discord** con i canali tematici in Italiano dedicati al C++
 - la **newsletter**, concisa e mobile-friendly, che ti aggiornerà sulle nostre iniziative
 - il **subreddit** in Italiano dedicato al C++
 - la **mappa interattiva** per "vedere dove siamo"
 
-## Slack
+## Discord
 
-**ATTENZIONE:** Stiamo migrando a Discord. Al momento, le richieste per entrare nel nostro Slack sono state sospese. A breve inseriremo il link ad un invito per unirsi al nostro nuovo server Discord. Tieni d'occhio il sito!
+Entra tramite [questo link](https://discord.gg/GPATr8QxfS) sul nostro server ed interagisci con gli altri membri della community.
 
 ## Newsletter
 
