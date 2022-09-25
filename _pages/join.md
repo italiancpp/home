@@ -35,7 +35,7 @@ Apri le tue discussioni e chiedi aiuto in Italiano sul C++ attraverso il nostro 
 
 [Visita il subreddit di ++it](https://www.reddit.com/r/cppit/)
 
-## Mappa del C++-isti italiani nel mondo
+## Mappa dei C++-isti italiani nel mondo
 
 Dove sono i C++-isti italiani nel mondo?
 
