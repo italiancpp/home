@@ -16,7 +16,7 @@ permalink: /story
 <figure>
   <img
   src="https://github.com/italiancpp/home/blob/main/assets/images/team/1.png?raw=true"
-  alt="Marco Arena, Italian C++ Community founder" width="30%">
+  alt="Marco Arena, Italian C++ Community founder" style="width:30%;">
   <figcaption>Marco Arena, Italian C++ Community founder</figcaption>
 </figure>
 
