@@ -60,7 +60,7 @@ After that, we organized [several events and meetups](https://italiancpp.org/arc
 
 Marco's primary goal was reached in 2016 when he led the organization of the very first [Italian C++ Conference](https://italiancpp.org/itcppcon16).
 
-The board of the community has changed through the years and the original crew disbanded mainly because people got busy. Marco Arena is still behind the organization of every meetup, conference, and online activity. *Stefano Saraulli* and *Franco Milicchio* are still supportive, mainly regarding the website. *Alessandro Vergani* joined Marco as co-organizer of *Italian C++ Conference* and *C++ Day* events. Some people are generally happy to join the staff of on-site events. Among them, it's important for us to mention: *Guido Pederzini*, *Gian Lorenzo Meocci*, *Raffaele Rialdi*, *Federico Ficarelli*, *Riccardo Brugo*, *Federico Pasqua*, *Illya Dudchenko*.
+The board of the community has changed through the years and the original crew disbanded mainly because people got busy. Marco Arena is still behind the organization of every meetup, conference, and online activity. *Stefano Saraulli* and *Franco Milicchio* are still supportive, mainly regarding the website. *Alessandro Vergani* joined Marco as co-organizer of *Italian C++ Conference* and *C++ Day* events. Some people are generally happy to join the staff at on-site events. Among them, it's important for us to mention: *Guido Pederzini*, *Marco Foco*, *Gian Lorenzo Meocci*, *Raffaele Rialdi*, *Federico Ficarelli*, *Riccardo Brugo*, *Federico Pasqua*, *Illya Dudchenko*.
 
 ---
 
