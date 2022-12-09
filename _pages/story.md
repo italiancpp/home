@@ -46,7 +46,9 @@ On *March 26th*, Marco buys the domain *italiancpp.org*. At the same time, he ge
 
 First of all, Marco, Franco and Stefano give birth to the website, set up a forum and create a few introduction pages. Social channels are created and managed by Marco only. The website is not publicly launched yet.
 
-In June 2013, the website gets to *beta* stage and Marco asks a few other people to join the *beta testers* crew. Among them, *Giorgio Ugazio* and *Marco Di Bartolomeo*. The former also joins the board until 2014, when he quits permanently. Since Giorgio is a public figure and he declared something inaccurate, here is our official statement: Giorgio Ugazio never co-founded the Italian C++ Community nor contributed to his conception. He joined the crew of beta testers following an explicit invitation sent by Marco Arena, and then joined the staff board for a few months. We are grateful to Giorgio but the clarification is mandatory since this page contains the **accurate** story of the community.
+In June 2013, the website gets to *beta* stage and Marco asks a few other people to join the *beta testers* crew. Among them, *Giorgio Ugazio* and *Marco Di Bartolomeo*. The former also joins the board until early 2014, when he quits permanently. Since Giorgio is a public figure and [he declared something inaccurate](https://youtu.be/_gk6YC7Twh0?t=2910), we have to make an official statement at this point: Giorgio Ugazio has not co-founded the Italian C++ Community nor contributed to his conception. He joined the crew of beta testers only following an explicit email invitation sent by Marco Arena in June 2013, and then he joined the staff board for a few months. Also, as you can hear from the video, Giorgio mentions *Marco Foco* who was not a co-founder either. *Marco Foco* is a regular member and friend of the community, he contributed with talks, he helped Marco Arena organize the very first meetup in Milan, and supported the staff in other occasions.
+
+These clarifications are mandatory since this page contains the **accurate** story of the community.
 
 On June 24th, *italiancpp.org* is officially launched.
 
