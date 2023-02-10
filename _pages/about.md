@@ -41,7 +41,7 @@ La **missione di ++it**:
 
 *   diffondere il C++ attraverso la promozione di notizie, idee, esperienze, best-practices, video, articoli e altre risorse digitali;
 *   coinvolgere e connettere tra loro persone interessate al C++;
-*   accogliere e aiutare coloro che desiderano imparare a sviluppare in C++;
+*   accogliere e aiutare coloro che desiderano [imparare](/learn) a sviluppare in C++;
 *   fornire un ambiente professionale per connettere aziende e professionisti;
 *   organizzare eventi e attività culturali e di approfondimento sullo sviluppo C++, per condividere esperienze e favorire connessioni professionali;
 *   supportare e aiutare tutti coloro che desiderano organizzare attività ed eventi sul C++ in Italia.
