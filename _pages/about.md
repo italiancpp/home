@@ -31,7 +31,7 @@ partners:
 
 Ciao!
 
-*Italian C++ Community* è la community Italiana dedicata al linguaggio di programmazione C++, una delle community no-profit più attive in Europa, punto di riferimento di professionisti, aziende e studenti che hanno l'interesse comune di condividere esperienze sullo sviluppo software in C++ in Italia.
+*Italian C++ Community* è la comunità Italiana dedicata al linguaggio di programmazione C++, il punto di riferimento di professionisti, aziende e studenti che hanno l'interesse comune di condividere esperienze sullo sviluppo software in C++ in Italia.
 
 Creata nel **2013** da un’idea originale di [Marco Arena](http://it.linkedin.com/in/marcoarena), primo italiano a pubblicare un articolo su [isocpp.org](https://isocpp.org/), il sito internazionale dello standard C++.
 
@@ -60,7 +60,7 @@ La **missione di ++it**:
 
 #### Chi può partecipare?
 
-Chiunque! Professionisti, appassionati, docenti, studenti, veterani, neofiti, imprenditori, italiani all’estero…
+Chiunque! Professionisti, appassionati, docenti, studenti, veterani, neofiti, imprenditori, italiani all’estero...
 
 L’unico requisito per partecipare è prendere visione delle [informazioni legali](/privacy-policy) e rispettare il [Codice di Condotta](/coc).
 
