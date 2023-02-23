@@ -6,6 +6,10 @@ permalink: /meetup
 
 <br/>
 
+# Are you looking for Italian C++ Conference 2023 call for sessions?
+
+Please go to [this dedicated page](https://italiancpp.github.io/con23/).
+
 # Speak at our monthly meetups in Modena
 
 The Italian C++ Community has organized monthly meetups in Modena (and online) **since 2017**:
