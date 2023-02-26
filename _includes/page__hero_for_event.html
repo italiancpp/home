@@ -1,0 +1,67 @@
+<!-- Page copied from the remote theme!-->
+{% capture overlay_img_path %}{{ page.header.ongoing_event | relative_url }}{% endcapture %}
+
+{% if page.header.overlay_filter contains "rgba" %}
+  {% capture overlay_filter %}{{ page.header.overlay_filter }}{% endcapture %}
+{% elsif page.header.overlay_filter %}
+  {% capture overlay_filter %}rgba(0, 0, 0, {{ page.header.overlay_filter }}){% endcapture %}
+{% endif %}
+
+{% if page.header.image_description %}
+  {% assign image_description = page.header.image_description %}
+{% else %}
+  {% assign image_description = page.title %}
+{% endif %}
+
+{% assign image_description = image_description | markdownify | strip_html | strip_newlines | escape_once %}
+
+<style>
+.billboard {
+    background-size: auto 100%;
+    height: 400px;
+}
+
+@media (max-width: 480px) {
+    .billboard {
+        background-size: auto 400px;
+        height: 400px;
+    }
+}
+
+.center-button {
+    text-align: center;
+}
+
+.button-for-event {
+  background-color: white;
+  color: #2f7d95;
+  padding: 15px 30px 15px 30px;
+  border: 1px solid #2f7d95;
+  border-radius: 5px;
+}
+</style>
+
+<div class="page__hero{% if page.header.overlay_color or page.header.ongoing_event %}--overlay{% endif %} billboard"
+  style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %}"
+>
+</div>
+
+{% if page.header.overlay_color or page.header.ongoing_event %}
+    <div class="wrapper center-button">
+      {% include page__meta.html %}
+      {% if page.header.cta_url %}
+        <p><a href="{{ page.header.cta_url | relative_url }}" class="btn button-for-event btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+      {% endif %}
+      {% if page.header.actions %}
+        <p>
+        {% for action in page.header.actions %}
+          <a href="{{ action.url | relative_url }}" class="btn button-for-event btn--large">{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+        {% endfor %}
+      {% endif %}
+    </div>
+  {% else %}
+    <img src="{{ page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
+  {% endif %}
+  {% if page.header.caption %}
+    <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+  {% endif %}
