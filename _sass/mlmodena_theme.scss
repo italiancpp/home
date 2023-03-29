@@ -30,32 +30,33 @@
 }
 
 .grid-partners {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  grid-gap: 1rem;
+    padding: 2%;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    
   > div {
-    padding: 1rem;
-    position: relative;
-    &::before {
-      // for apsect ratio
-      content: "";
-      display: block;
-      padding-bottom: 100%;
+     width: 20%;
+     margin: 15px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center; 
+     
+      &:hover {
+	    box-shadow: 0 0 10px rgba(0,0,0,0.25);
+      }
     }
     img {
-      position: absolute;
-      max-width: 100%;
-
-      // Alternate Version
-      // top: 0;
-      // bottom: 0;
-      // right: 0;
-      // left: 0;
-      // margin: auto;
-
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
+        max-width: 100%;
+        top: 50%;
+        left: 50%;
+        
+        &:hover
+        {
+	        box-shadow: none !important;
+        }
     }
-  }
 }
+
