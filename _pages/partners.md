@@ -15,6 +15,5 @@ permalink: /partners
   <div><a href="https://cpponsea.uk/"><img src="/assets/images/partners/cpp-on-sea.png" alt="C++ on Sea"></a></div>
   <div><a href="https://www.packtpub.com/"><img src="/assets/images/partners/packt.png" alt="Packt Publishing"></a></div>
   <div><a href="https://www.aiv01.it/"><img src="/assets/images/partners/aiv.png" alt="AIV - Accademia Italiana Videogiochi"></a></div>
-  
     <div><a href="https://www.luxoft.com"><img src="/assets/images/partners/luxoft.png" alt="Luxoft - a DXC Technology Company"></a></div>
 </div>
