@@ -132,6 +132,9 @@ footer:
     - label: "Privacy Policy"
       icon: "fas fa-eye"
       url: "https://italiancpp.org/privacy-policy"
+    - label: "Code of Conduct"
+      icon: "fas fa-check-circle"
+      url: "https://italiancpp.org/coc"
 
 
 # Reading Files
