@@ -18,5 +18,5 @@ permalink: /partners
     <div><a href="https://www.luxoft.com"><img src="/assets/images/partners/luxoft.png" alt="Luxoft - a DXC Technology Company"></a></div>
     <div><a href="https://kdab.com/"><img src="/assets/images/partners/kdab.png" alt="KDAB"></a></div>
     <div><a href="https://zuru.tech/join-the-team"><img src="/assets/images/partners/zuru.png" alt="ZURU Tech Italy"></a></div>
-    <div><a href="https://www.qubicaamf.com/company"><img src="/assets/images/partners/quibica.png" alt="Quibica AMF"></a></div>
+    <div><a href="https://www.qubicaamf.com/company"><img src="/assets/images/partners/qubica.png" alt="Quibica AMF"></a></div>
 </div>
