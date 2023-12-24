@@ -6,22 +6,17 @@ permalink: /meetup
 
 <br/>
 
-# Are you looking for Italian C++ Conference 2023 call for sessions?
-
-Please go to [this dedicated page](https://italiancpp.github.io/con23/).
-
 # Speak at our monthly meetups in Modena
 
 The Italian C++ Community has organized monthly meetups in Modena (and online) **since 2017**:
 
 - we are hosted at [MakeIt Modena](https://www.google.com/maps/place/Palestra+Digitale+MakeitModena/@44.6594541,10.8945142,15z/data=!4m2!3m1!1s0x0:0x9604568cf54b2b99?sa=X&ved=2ahUKEwiO1s_vwdvzAhXD_rsIHQL9DoIQ_BJ6BAhoEAU);
-- our location hosts up to **25 people in person** (facemask is recommended but not mandatory);
+- our location hosts up to **25 people in person**;
 - the speaker can be either **in person** or **remote**;
 - the session will be live on [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw);
-- we have a [Slack](https://italiancpp.org/slack) channel dedicated to the meetup;
 - afterwards, we have a booked table at our **pizzeria** of trust for chat and **networking**.
 
-The meetup starts at **6:30 PM (GMT+1)**, with **60/90-min** technical session starting at **7 PM**.
+The meetup opens doors at **6:30 PM (GMT+1)**, hosting a **60/90-min** technical session from **7 PM**.
 
 ## Session format
 
