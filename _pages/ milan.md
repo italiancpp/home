@@ -8,6 +8,8 @@ permalink: /milan
 
 # Speak at our monthly meetups in Milan
 
+<img src="/assets/images/eventi/meetup-milano0524.png" alt="Meetup C++ Milan" width="600">
+
 The Italian C++ Community is organizing *monthly* meetups in Milan:
 
 - the host changes often Interested in hosting us? [Have a look at here](#hosting-a-meetup)
