@@ -38,4 +38,4 @@ For other formats, please choose "Other" and drop some lines in the notes.
 
 ## Propose your session
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScCGQ550sr8Ti6v3jw8ftApykB67MgsbCwiP-w9HpcbHsiqhA/viewform?embedded=true" width="640" height="2600" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-4gFirO6oH0YqVhdTlzWR2ID16Fz97uyAPHsVyHFWTIo3yA/viewform?embedded=true" width="640" height="2600" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
