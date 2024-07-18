@@ -8,7 +8,7 @@ permalink: /modena
 
 # Speak at our monthly meetups in Modena
 
-<img src="/assets/images/eventi/meetup-mo-cover.jpg" alt="Meetup C++ Modena" width="600">
+<img src="/assets/images/eventi/meetup-mo-cover.jpg" alt="Meetup C++ Modena" width="80%">
 
 The Italian C++ Community has organized monthly meetups in Modena (and online) **since 2017**:
 
