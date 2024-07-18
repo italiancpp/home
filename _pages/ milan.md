@@ -12,7 +12,7 @@ permalink: /milan
 
 The Italian C++ Community is organizing *monthly* meetups in Milan:
 
-- the host changes often Interested in hosting us? [Have a look at here](#hosting-a-meetup)
+- the host changes often. Interested in hosting us? [Have a look at here](#hosting-a-meetup)
 - we are currently accepting only **in person** sessions;
 - usually, the session is live-streamed on [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw);
 - afterwards, we hang out together for some **pizza and networking**.
