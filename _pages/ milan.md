@@ -10,20 +10,24 @@ permalink: /milan
 
 The Italian C++ Community is organizing *monthly* meetups in Milan:
 
-- the host changes often (interested in hosting us? [Have a look here](#hosting-a-meetup))
+- the host changes often Interested in hosting us? [Have a look at here](#hosting-a-meetup)
 - we are currently accepting only **in person** sessions;
 - usually, the session is live-streamed on [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw);
 - afterwards, we hang out together for some **pizza and networking**.
+
+All our events abide by the [code of conduct](https://italiancpp.org/coc).
 
 ## Session format
 
 **We welcome any session format**!
 
-The most popular meetup formats we have hosted up to now are:
+The most popular formats we have hosted so far:
 - **technical session** (60-min + Q&A frontal session)
 - **workshop** (the speaker facilitates a hands-on session)
 -  **moderated round-table** (the speaker moderates an interactive session to discuss a specific topic)
 - **live coding** (a structured “no-slides” talk)
+
+Either italian or english speakers are welcome! You decide which language to speak.
 
 ## Meetup format
 
@@ -31,10 +35,8 @@ Our conventional meetup format:
 
 - **open doors** at 6:30pm: kickstart the evening with informal networking opportunities
 - **main session** at 7pm: dive into an engaging presentation by our featured speaker
-- **closing** at 8:15-30pm: do pair feedback and get a chance to win our gadgets in the raffle
+- **closing** at 8:15-30pm: give "pair feedback" and get a chance to win our gadgets in the raffle
 - **pizza & networking** after 8:30pm: cap off the night at a local pizzeria with delicious food and more networking fun
-
-Either italian or english speakers are welcome! You decide which language to speak.
 
 ## Hosting a meetup
 
