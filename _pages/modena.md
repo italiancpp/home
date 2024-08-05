@@ -13,10 +13,10 @@ permalink: /modena
 The Italian C++ Community has organized monthly meetups in Modena (and online) **since 2017**:
 
 - we are hosted at [MakeIt Modena](https://www.google.com/maps/place/Palestra+Digitale+MakeitModena/@44.6594541,10.8945142,15z/data=!4m2!3m1!1s0x0:0x9604568cf54b2b99?sa=X&ved=2ahUKEwiO1s_vwdvzAhXD_rsIHQL9DoIQ_BJ6BAhoEAU);
-- our location hosts up to **25 people in person**;
-- the speaker can be either **in person** or **remote**;
+- our location hosts up to **30 people in person**;
+- the speaker is intended to participate **in person**;
 - the session will be live on [YouTube](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw);
-- afterwards, we have a booked table at our **pizzeria** of trust for chat and **networking**.
+- afterwards, we'll have a booked table at our favourite **pizzeria** for chat and **networking**.
 
 The meetup opens doors at **6:30 PM (GMT+1)**, hosting a **60/90-min** technical session from **7 PM**.
 
@@ -34,7 +34,9 @@ For other formats, please choose "Other" and drop some lines in the notes.
 
 ## Acceptance
 
-**First come, first served:** we reserve the slot as soon as we receive the proposal. **The date is not 100% binding**: we usually meet **every 2nd Thursday** of each month, but we are flexible to change with some notice.
+First, we get back in touch with you to find the optimal date for your session. While we sometimes have fixed slots, if that’s not the case, you have the flexibility to choose the best time for you.
+
+*First Come, First Served:* if multiple speakers wish to present in the same month, precedence is given to the first proposal submitted.
 
 ## Propose your session
 
