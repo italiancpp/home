@@ -12,35 +12,55 @@ In tanti anni di community abbiamo capito che **sei tu a decidere in che modo vu
 
 Quindi ti proponiamo di entrare nello straordinario ecosistema di Italian C++ Community attraverso alcune *proposte di interazione*:
 
-- i **canali social** (che trovi sul fondo di questa pagina),
-- gli **eventi** (fisici o virtuali),
-- il **server Discord** con i canali tematici in Italiano dedicati al C++
-- la **newsletter**, concisa e mobile-friendly, che ti aggiornerà sulle nostre iniziative
-- il **subreddit** in Italiano dedicato al C++
-- la **mappa interattiva** per "vedere dove siamo"
+- i **canali social**, che trovi in calce ad ogni pagina;
+- gli **eventi** in presenza (con live-streaming sul [nostro canale YouTube](https://www.youtube.com/@italiancppcommunity));
+- il **server Discord** con i canali tematici in Italiano dedicati al C++;
+- la **mappa interattiva** per "vedere dove siamo".
 
-## Discord
+## Discord 💬
 
-Entra tramite [questo link](https://discord.gg/GPATr8QxfS) sul nostro server ed interagisci con gli altri membri della community.
+Negli anni abbiamo utilizzato diverse piattaforme per la nostra comunità online. I primi anni avevamo un forum all'interno di questo sito, poi siamo passati a Slack e infine a Discord.
 
-## Newsletter
+Discord è la nostra community online dove potrai fare domande, scambiare opinioni e parlare degli ultimi aggiornamenti del mondo C++.
 
-Iscriviti alla newsletter per rimanere aggiornato sulle nostre iniziative e per ricevere codici sconto e promozioni dai nostri partner. L'invio della newsletter dipende dalle attività che abbiamo in programma e non supera la cadenza mensile.
+👉 Entra tramite [questo link](https://discord.gg/GPATr8QxfS)!
 
-[Iscriviti alla newsletter](http://eepurl.com/hjZ-en)
+### Sezione principianti 👣
 
-## Subreddit dedicato in Italiano
+Su Discord troverai il canale "👣beginners" sotto la sezione "LEARN". In questo canale puoi creare dei post con domande in stile forum. Si tratta di un canale dedicato a coloro che stanno muovendo i primi passi col linguaggio; per domande più "avanzate" puoi scegliere il canale più opportuno oppure `#general` se non trovi una categoria adatta.
 
-Apri le tue discussioni e chiedi aiuto in Italiano sul C++ attraverso il nostro subreddit:
+## Come restare aggiornati sui nostri eventi? 🔔
 
-[Visita il subreddit di ++it](https://www.reddit.com/r/cppit/)
+Facciamo pubblicità sui nostri canali social e Discord ma se preferisci un invito via email, ecco come riceverne uno:
 
-## Mappa dei C++-isti italiani nel mondo
+- se ti iscrivi ad uno qualsiasi dei nostri eventi, potrai decidere - nel modulo di iscrizione - se ricevere un invito via mail agli eventi successivi di quella categoria (ad esempio, se aderisci dal modulo di un meetup a Milano allora riceverai un invito ai meetup successivi **a Milano**). Chiaramente, potrai annullare l'iscrizione in qualsiasi momento;
+- a meno di casi particolari, usiamo sempre *eventbrite* per gestire le iscrizioni ai nostri eventi. Quindi, [seguirci su eventbrite](https://italiancpp.eventbrite.com/) ti permette di restare aggiornato sui nostri eventi con una mail automatica da parte della piattaforma;
+- per i meetup e gli eventi abbiamo sempre delle "call for speakers" pubbliche che ci fa piacere condividere con tutte le persone che hanno aderito alla ricezione di inviti ai nostri eventi. Anche in questo caso, l'invio è contestualizzato alla categoria di evento dal quale hai aderito alla ricezione di inviti.
+
+Nel caso in cui tu voglia essere in una di queste liste ma non hai avuto (ancora) occasione di iscriverti ad un nostro evento, [contattaci](mailto:info@italiancpp.org).
+
+## E la newsletter? ✉️
+
+L'abbiamo deprecata! Ebbene sì, anche noi del C++ ogni tanto deprechiamo qualcosa 😅
+
+Negli anni abbiamo capito che il gioco non valeva la candela. Pensiamo che oggi ognuno di noi preferisca ricevere informazioni alle proprie condizioni e con una periodicità differente. Inviare email massive ogni mese, uguali per tutti? Non fa per noi.
+
+**E per restare aggiornati sulle novità del C++?**
+
+Ci sentiamo di suggerirti due opzioni:
+- [newsletter di Meeting C++](https://meetingcpp.com/mcpp/user/register.php?source=newsletter). Meeting C++ è la community C++ più grande del mondo (oltre che un evento annuale a Berlino);
+- [Standard C++](https://isocpp.org/) (c'è un feed RSS).
+
+Anche noi talvolta pubblichiamo dei link ad articoli interessanti o novità. Tuttavia, lo facciamo poco spesso. Preferiamo concentrare le nostre energie (e tempo) sull'organizzazione degli eventi e la moderazione dei canali Discord. Ma quando pubblichiamo un link, questo verrà automaticamente diffuso attraverso tutti i nostri canali, incluso il Server Discord.
+
+## Mappa dei C++-isti italiani nel mondo 🗺️
 
 Dove sono i C++-isti italiani nel mondo?
 
+Da un'idea del lontano 2014, abbiamo deciso di pubblicare una mappa degli sviluppatori C++ italiani nel mondo. La mappa è pubblica e chiunque può unirsi.
+
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1kq4qEWdgLfxmDj2QOc8jIgH3yZc" width="640" height="580"></iframe>
 
-Entra anche tu sulla mappa:
+Entra anche tu sulla mappa (se vuoi modificare le informazioni o cancellarti, [scrivici](mailto:info@italiancpp.org)):
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-cAX7AiYTXIbB9NUPgM1JAW6QnxmWAJmFT4FLW-TiRjecpg/viewform?embedded=true" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
