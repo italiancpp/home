@@ -33,9 +33,9 @@ Su Discord troverai il canale "👣beginners" sotto la sezione "LEARN". In quest
 
 Facciamo pubblicità sui nostri canali social e Discord ma se preferisci un invito via email, ecco come riceverne uno:
 
-- se ti iscrivi ad uno qualsiasi dei nostri eventi, potrai decidere - nel modulo di iscrizione - se ricevere un invito via mail agli eventi successivi di quella categoria (ad esempio, se aderisci dal modulo di un meetup a Milano allora riceverai un invito ai meetup successivi **a Milano**). Chiaramente, potrai annullare l'iscrizione in qualsiasi momento;
+- se ti iscrivi ad uno qualsiasi dei nostri eventi, potrai decidere - nel modulo di iscrizione - se ricevere un invito via email agli eventi successivi di quella categoria (ad esempio, se aderisci dal modulo di un meetup a Milano allora riceverai un invito ai meetup successivi **a Milano**). Chiaramente, potrai annullare l'iscrizione in qualsiasi momento;
 - a meno di casi particolari, usiamo sempre *eventbrite* per gestire le iscrizioni ai nostri eventi. Quindi, [seguirci su eventbrite](https://italiancpp.eventbrite.com/) ti permette di restare aggiornato sui nostri eventi con una mail automatica da parte della piattaforma;
-- per i meetup e gli eventi abbiamo sempre delle "call for speakers" pubbliche che ci fa piacere condividere con tutte le persone che hanno aderito alla ricezione di inviti ai nostri eventi. Anche in questo caso, l'invio è contestualizzato alla categoria di evento dal quale hai aderito alla ricezione di inviti.
+- per i meetup e gli eventi abbiamo sempre delle "call for speakers" pubbliche che ci fa piacere condividere con tutte le persone che ricevono gli inviti a quella categoria di evento.
 
 Nel caso in cui tu voglia essere in una di queste liste ma non hai avuto (ancora) occasione di iscriverti ad un nostro evento, [contattaci](mailto:info@italiancpp.org).
 
