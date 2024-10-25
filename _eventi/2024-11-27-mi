@@ -1,0 +1,62 @@
+---
+title: "Creating a Sender/Receiver HTTP Server"
+excerpt: "Meetup a Milano!"
+read_time: false
+related: false
+show_date: true
+toc: true
+share: true
+comments: false
+author_profile: false
+tags:
+  - community
+  - meetup
+  - milan
+  - sender/receiver
+---
+
+🥳 C'è una novità in città: l'Italian C++ Community organizza a Milano meetup a tema C++!
+
+In questo appuntamento, Dietmar Kühl, Software Engineer in Bloomberg, ci mostrerà come sviluppare un server HTTP usando il nuovo framework sender/receiver che diverrà standard in C++26. La sessione sarà totalmente pratica e interattiva.
+
+📌Dove? Ospitati nella sede di Bloomberg LP, in piazza Fontana 🤩
+
+🎙️ Per l'occasione, Dietmar Kühl terrà la sessione "Creating a Sender/Receiver HTTP Server"
+
+🍕 Seguiranno pizza e networking nella sede di Bloomberg
+
+🆓 Partecipazione totalmente gratuita ma iscrizione obbligatoria.
+
+### Programma
+
+- 18:30 - 19:00: Doors Open & Networking
+- 19:00 - 19:05: Messaggio di benvenuto di Marco Arena
+- 19:05 - 20:20: Sessione tecnica
+- Dalle 20:30  : Pizza e networking offerti da Bloomberg
+
+**La sessione sarà trasmessa in streaming (vedi in basso per i dettagli)**
+
+### La sessione
+
+**Creating a Sender/Receiver HTTP Server**
+
+Relatore: **Dietmar Kühl** - Software Engineer in Bloomberg
+
+The sender/receiver framework for asynchronous operations in C++ is well on its way towards standardization in C++26. Previously, the theoretical background and implementation of the framework was shown but there wasn't much detail on how an application using sender/receiver would look like.
+
+This presentation shows how to create a simple HTTP server using the sender/receiver framework with matching networking senders together with a coroutine task and and async scope. The code is created live using fundamental facilities. The goal is to demonstrate that the use of an asynchronous framework doesn't necessarily lead to excessive complexity when using C++'s facilities effectively. The resulting server could be embedded into any application, e.g., to inspect its state or change configurations. The takeaway is that it is reasonably straight forward to create an asynchronous program.
+
+### Il relatore
+
+Dietmar Kühl is a senior software developer at Bloomberg working on the data distribution environment used both internally and by enterprise installations at clients. In the past, he has done mainly consulting for software projects in the finance area. He is a regular attendee of the ISO C++ standards committee and frequent presenter at conferences.
+
+### Iscrizioni
+
+[➕ Iscriviti all'evento](https://italiancpp-1124.eventbrite.it/){: .btn .btn--primary .btn--large}
+
+### Video e materiale dell'evento
+
+- Video in diretta streaming:
+
+{% include video id="fm1OZM2f8iY" provider="youtube" %}
+
