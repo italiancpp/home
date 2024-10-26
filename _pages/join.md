@@ -8,9 +8,9 @@ toc: true
 
 # Unisciti alla community
 
-In tanti anni di community abbiamo capito che **sei tu a decidere in che modo vuoi seguirci** e non il contrario.
+In tanti anni di community abbiamo capito che **sei tu a decidere in che modo vuoi seguirci**, non il contrario.
 
-Quindi ti proponiamo di entrare nello straordinario ecosistema di Italian C++ Community attraverso alcune *proposte di interazione*:
+Ti proponiamo di entrare nello straordinario ecosistema di Italian C++ Community attraverso diverse *proposte di interazione*:
 
 - i **canali social**, che trovi in calce ad ogni pagina;
 - gli **eventi** in presenza (con live-streaming sul [nostro canale YouTube](https://www.youtube.com/@italiancppcommunity));
@@ -19,7 +19,7 @@ Quindi ti proponiamo di entrare nello straordinario ecosistema di Italian C++ Co
 
 ## Discord 💬
 
-Negli anni abbiamo utilizzato diverse piattaforme per la nostra comunità online. I primi anni avevamo un forum all'interno di questo sito, poi siamo passati a Slack e infine a Discord.
+Negli tempo abbiamo utilizzato diverse piattaforme per la nostra comunità online. I primi anni avevamo un forum all'interno di questo sito. In seguito siamo passati a Slack e infine a Discord.
 
 Discord è la nostra community online dove potrai fare domande, scambiare opinioni e parlare degli ultimi aggiornamenti del mondo C++.
 

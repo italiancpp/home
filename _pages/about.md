@@ -31,30 +31,30 @@ partners:
 
 Ciao!
 
-*Italian C++ Community* è la comunità Italiana dedicata al linguaggio di programmazione C++, il punto di riferimento di professionisti, aziende e studenti che hanno l'interesse comune di condividere esperienze sullo sviluppo software in C++ in Italia.
+*Italian C++ Community* è la comunità Italiana dedicata al linguaggio di programmazione C++. Il punto di riferimento di professionisti, aziende e studenti che hanno l'interesse comune di condividere esperienze e idee sullo sviluppo software fatto con il C++ in Italia.
 
-Creata nel **2013** da un’idea originale di [Marco Arena](http://it.linkedin.com/in/marcoarena), primo italiano a pubblicare un articolo su [isocpp.org](https://isocpp.org/), il sito internazionale dello standard C++. La **storia della community** è raccontata accuratamente [qui](https://italiancpp.org/story).
+Creata nel **2013** da un’idea originale di [Marco Arena](http://it.linkedin.com/in/marcoarena), primo italiano a pubblicare un articolo su [isocpp.org](https://isocpp.org/), il sito internazionale dello standard C++. La **storia della community** è raccontata accuratamente [in questa pagina dedicata](https://italiancpp.org/story).
 
 La **missione di ++it**:
 
-*   diffondere il C++ attraverso la promozione di notizie, idee, esperienze, best-practices, video, articoli e altre risorse digitali;
-*   coinvolgere e connettere tra loro persone interessate al C++;
+*   diffondere risorse riguardanti la conoscenza e l'evoluzione del C++;
+*   organizzare eventi e attività di approfondimento in Italia sullo sviluppo in C++;
+*   coinvolgere e connettere tra loro tutti coloro che nutrono un interesse sul C++;
+*   realizzare occasioni di incontro tra aziende, professionisti e studenti interessati al C++;
 *   accogliere e aiutare coloro che desiderano [imparare](/learn) a sviluppare in C++;
-*   fornire un ambiente professionale per connettere aziende e professionisti;
-*   organizzare eventi e attività culturali e di approfondimento sullo sviluppo C++, per condividere esperienze e favorire connessioni professionali;
-*   supportare e aiutare tutti coloro che desiderano organizzare attività ed eventi sul C++ in Italia.
+*   supportare e fare da hub per eventi e incontri sul C++ in Italia, non organizzati direttamente da noi.
 
 **++it** sviluppa costantemente la sua missione attraverso **proposte di interazione**, ovvero attività e canali di comunicazione:
 
-*   [Subreddit dedicato](https://reddit.com/r/cppit), per discutere e chiedere aiuto sul C++ in lingua **Italiana**;
+* I **canali social** (che trovi in calce ad ogni pagina), per restare aggiornati sui nostri eventi e, talvolta, sulle notizie e risorse riguardanti il C++;
 
-*   [Newsletter](/join), per aggiornarvi sulle nostre attività e sull’ecosistema internazionale del C++;
+*   [Server Discord](/discord), per interagire con gli altri partecipanti e per ricevere aggiornamenti su **news**, **risorse consigliate**, **eventi**, **offerte di lavoro** riguardanti il C++;
 
-*   [Server Discord](/join), per interagire con gli altri partecipanti e per ricevere aggiornamenti su **news**, **risorse consigliate**, **eventi**, **offerte di lavoro** riguardanti il C++;
+*   Organizzazione di [eventi](/archivio-eventi) di stampo internazionale e meetup ricorrenti sul territorio;
 
-*   Organizzazione di [eventi](/archivio-eventi) (anche internazionali) e meetup (ricorrenti sul territorio);
+*   [Mappa interattiva](https://www.google.com/maps/@45.7186146,-0.9182294,5z/data=!3m1!4b1!4m2!6m1!1s1kq4qEWdgLfxmDj2QOc8jIgH3yZc) dei C++-isti italiani e le aziende nel mondo.
 
-*   [Mappa interattiva](https://www.google.com/maps/@45.7186146,-0.9182294,5z/data=!3m1!4b1!4m2!6m1!1s1kq4qEWdgLfxmDj2QOc8jIgH3yZc)  dei C++-isti italiani e le aziende nel mondo.
+Per approfondire le nostre proposte di interazione, visita la [pagina dedicata](/join).
 
 #### Chi può partecipare?
 
