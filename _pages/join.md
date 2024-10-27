@@ -19,7 +19,7 @@ Ti proponiamo di entrare nello straordinario ecosistema di Italian C++ Community
 
 ## Discord 💬
 
-Negli tempo abbiamo utilizzato diverse piattaforme per la nostra comunità online. I primi anni avevamo un forum all'interno di questo sito. In seguito siamo passati a Slack e infine a Discord.
+Nel tempo abbiamo utilizzato diverse piattaforme per la nostra comunità online. I primi anni avevamo un forum all'interno di questo sito. In seguito siamo passati a Slack e infine a Discord.
 
 Discord è la nostra community online dove potrai fare domande, scambiare opinioni e parlare degli ultimi aggiornamenti del mondo C++.
 
