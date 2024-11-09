@@ -20,6 +20,10 @@ The Italian C++ Community has organized monthly meetups in Modena (and online) *
 
 The meetup opens doors at **6:30 PM (GMT+1)**, hosting a **60/90-min** technical session from **7 PM**.
 
+### A bit of history
+
+After hosting two exploratory meetups in 2017, Marco Arena launched a monthly in-person series in 2018. The format transitioned to hybrid in 2019, shifting to online-only in 2020 and 2021 due to the COVID-19 pandemic. By the last quarter of 2021, the meetups returned to a hybrid format. In 2024, Marco relocated to Milan and passed the leadership to Eric Tondelli, Mattia Verasani, and Andrea Battistello, who volunteered to continue the meetups in Modena.
+
 ## Session format
 
 **We welcome any session format**!
