@@ -21,4 +21,5 @@ permalink: /partners
     <div><a href="https://www.qubicaamf.com/company"><img src="/assets/images/partners/qubica.png" alt="Quibica AMF"></a></div>
     <div><a href="https://www.think-cell.com/italiancpp"><img src="/assets/images/partners/think-cell.png" alt="think-cell"></a></div>
     <div><a href="http://www.elettronicagroup.com/"><img src="/assets/images/partners/ELT.png" alt="ELT"></a></div>
+    <div><a href="https://cpponline.uk"><img src="/assets/images/partners/CppOnline.png" alt="ELT"></a></div>
 </div>
