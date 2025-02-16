@@ -103,6 +103,12 @@ Tre raccomandazioni importanti:
   * **Libro gratuito**: &#8220;<a href="https://www.jetbrains.com/cpp-today-oreilly/books/Cplusplus_Today.pdf" target="_blank">C++ Today</a>&#8221; di Jon Kalb & Gašper Ažman
 
 
+##### Conosco il C e la programmazione orientata agli oggetti  
+<span style="color: #ffffff;"> </span>
+
+  * **Corso gratuito**: &#8220;<a href="https://federico-busato.github.io/Modern-CPP-Programming/" target="_blank">Modern C++ Programming</a>&#8221; di Federico Busato
+
+
 ##### Desidero imparare a programmare e ho scelto il C++ come linguaggio  
 <span style="color: #ffffff;"> </span>
 
