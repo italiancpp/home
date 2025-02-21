@@ -21,6 +21,10 @@ Il formato della presentazione può variare ed è deciso dal relatore ospite del
 
 Gli incontri, **come avveniva prima dell'emergenza sanitaria**, saranno trasmessi **anche** in diretta streaming.
 
+### Iscrizioni
+
+[➕ Iscriviti all'evento](https://conoscerelinux.org/courses/meetupcpp_0325/){: .btn .btn--primary .btn--large}
+
 ### La sessione
 
 La presentazione fornisce una panoramica generale sulla creazione di progetti CMake autosufficienti e riutilizzabili, con un focus sull'introduzione e l'utilizzo dei preset CMake. Sebbene i preset CMake siano disponibili da un po' di tempo, rimangono relativamente sottoutilizzati dagli sviluppatori. Tuttavia, la loro adozione è in costante crescita, in particolare negli IDE moderni e nelle pipeline di integrazione continua (CI).
