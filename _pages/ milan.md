@@ -37,6 +37,19 @@ The most popular formats we have hosted so far:
 
 Either italian or english speakers are welcome! You decide which language to speak.
 
+### 🚀 Looking for Inspiration?
+
+Expand this section to read the *Most Wanted Topics* (straight from our deedback modules):
+<details>
+- Latest C++ features and C++26 (e.g. reflection, contracts)
+- C++ in *AI* applications
+- Productivity and AI assistants
+- C++ and docker
+- Testing C++ code bases
+- C++ in different domains, such as graphics, finance, embedded, and heterogeneous computing (e.g. [SYCL](https://en.wikipedia.org/wiki/SYCL))
+- Functional programming in C++
+</details>
+
 ### Why speaking
 
 Speaking at a local meetup offers some unique opportunities:
