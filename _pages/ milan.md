@@ -41,13 +41,15 @@ Either italian or english speakers are welcome! You decide which language to spe
 
 Expand this section to read the *Most Wanted Topics* (straight from our deedback modules):
 <details>
-- Latest C++ features and C++26 (e.g. reflection, contracts)
-- C++ in *AI* applications
-- Productivity and AI assistants
-- C++ and docker
-- Testing C++ code bases
-- C++ in different domains, such as graphics, finance, embedded, and heterogeneous computing (e.g. [SYCL](https://en.wikipedia.org/wiki/SYCL))
-- Functional programming in C++
+<ul>
+<li>Latest C++ features and C++26 (e.g. reflection, contracts)</li>
+<li>C++ in *AI* applications</li>
+<li>Productivity and AI assistants</li>
+<li>C++ and docker</li>
+<li>Testing C++ code bases</li>
+<li>C++ in different domains, such as graphics, finance, embedded, and heterogeneous computing (e.g. [SYCL](https://en.wikipedia.org/wiki/SYCL))</li>
+<li>Functional programming in C++</li>
+</ul>
 </details>
 
 ### Why speaking
