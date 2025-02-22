@@ -47,7 +47,7 @@ Expand this section to read the *Most Wanted Topics* (straight from our deedback
 <li>Productivity and AI assistants</li>
 <li>C++ and docker</li>
 <li>Testing C++ code bases</li>
-<li>C++ in different domains, such as graphics, finance, embedded, and heterogeneous computing (e.g. [SYCL](https://en.wikipedia.org/wiki/SYCL))</li>
+<li>C++ in different domains, such as graphics, finance, embedded, and heterogeneous computing (e.g. <a href="https://en.wikipedia.org/wiki/SYCL">SYCL</a>)</li>
 <li>Functional programming in C++</li>
 </ul>
 </details>
