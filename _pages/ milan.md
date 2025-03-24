@@ -43,10 +43,14 @@ Expand this section to read the *Most Wanted Topics* (straight from our deedback
 <details>
 <ul>
 <li>Latest C++ features and C++26 (e.g. reflection, contracts)</li>
-<li>C++ in *AI* applications</li>
-<li>Productivity and AI assistants</li>
+<li>C++ in *AI* applications (including in embedded)</li>
+<li>Productivity (using tools such as clang tidy) and AI assistants</li>
+<li>Static analysis, sanitizers, how to keep codebases in top shape</li>
+<li>Deep dive into language features (e.g. allocators, move semantics)</li>
+<li>Real usage of modern C++ libraries</li>
 <li>C++ and docker</li>
 <li>Testing C++ code bases</li>
+<li>Multithreading & parallelism</li>
 <li>C++ in different domains, such as graphics, finance, embedded, and heterogeneous computing (e.g. <a href="https://en.wikipedia.org/wiki/SYCL">SYCL</a>)</li>
 <li>Functional programming in C++</li>
 </ul>
