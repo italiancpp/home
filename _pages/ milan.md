@@ -47,11 +47,13 @@ Expand this section to read the *Most Wanted Topics* (straight from our deedback
 <li>Productivity (using tools such as clang tidy) and AI assistants</li>
 <li>Static analysis, sanitizers, how to keep codebases in top shape</li>
 <li>Deep dive into language features (e.g. allocators, move semantics)</li>
+<li>Refactoring of legacy codebases</li>
 <li>Real usage of modern C++ libraries</li>
+<li>"Safe C++" and how modern standards support it (e.g. contracts)</li>
 <li>C++ and docker</li>
 <li>Testing C++ code bases</li>
 <li>Multithreading & parallelism</li>
-<li>C++ in different domains, such as graphics, finance, embedded, and heterogeneous computing (e.g. <a href="https://en.wikipedia.org/wiki/SYCL">SYCL</a>)</li>
+<li>C++ in different domains, such as graphics, finance, embedded, aerospace, heterogeneous computing (e.g. <a href="https://en.wikipedia.org/wiki/SYCL">SYCL</a>), etc.</li>
 <li>Functional programming in C++</li>
 </ul>
 </details>
