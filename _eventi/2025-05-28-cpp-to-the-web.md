@@ -23,7 +23,7 @@ Gli incontri, **come avveniva prima dell'emergenza sanitaria**, saranno trasmess
 
 ### Iscrizioni
 
-[➕ Iscriviti all'evento](https://conoscerelinux.org/courses/meetup-c/){: .btn .btn--primary .btn--large}
+[➕ Iscriviti all'evento](https://conoscerelinux.org/courses/meetupcpp_0326/){: .btn .btn--primary .btn--large}
 
 ### La sessione
 
