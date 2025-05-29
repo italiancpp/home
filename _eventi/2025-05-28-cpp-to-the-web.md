@@ -21,10 +21,6 @@ Il formato della presentazione può variare ed è deciso dal relatore ospite del
 
 Gli incontri, **come avveniva prima dell'emergenza sanitaria**, saranno trasmessi **anche** in diretta streaming.
 
-### Iscrizioni
-
-[➕ Iscriviti all'evento](https://conoscerelinux.org/courses/meetupcpp_0326/){: .btn .btn--primary .btn--large}
-
 ### La sessione
 
 Il C++ è da sempre un pilastro per le applicazioni native, ma con WebAssembly è finalmente sbarcato sul Web. In questa sessione vedremo come compilare C++ in WebAssembly utilizzando Emscripten, analizzeremo i vantaggi e limiti di questa tecnologia e discuteremo di quali scenari apre per lo sviluppo di webapp in browser e non solo. La presentazione includerà esempi pratici e indicazioni utili per iniziare ad utilizzare WebAssembly nei propri progetti.
