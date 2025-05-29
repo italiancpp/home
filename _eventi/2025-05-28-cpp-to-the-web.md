@@ -33,4 +33,4 @@ Il C++ è da sempre un pilastro per le applicazioni native, ma con WebAssembly �
 
 - Video in diretta streaming:
 
-(verrà caricato appena disponibile)
+{% include video id="bf3LfYPpsBQ" provider="youtube" %}
