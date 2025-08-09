@@ -39,11 +39,11 @@ Either italian or english speakers are welcome! You decide which language to spe
 
 ### 🚀 Looking for Inspiration?
 
-Expand this section to read the *Most Wanted Topics* (straight from our deedback modules):
+Expand this section to read the *Most Wanted Topics* (straight from our feedback modules):
 <details>
 <ul>
 <li>Latest C++ features and C++26 (e.g. reflection, contracts)</li>
-<li>C++ in *AI* applications (including in embedded)</li>
+<li>C++ in <strong>AI</strong> applications (including in embedded)</li>
 <li>Productivity (using tools such as clang tidy) and AI assistants</li>
 <li>Static analysis, sanitizers, how to keep codebases in top shape</li>
 <li>Deep dive into language features (e.g. allocators, move semantics)</li>
