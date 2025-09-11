@@ -47,9 +47,10 @@ Negli anni abbiamo capito che il gioco non valeva la candela. Pensiamo che oggi 
 
 **E per restare aggiornati sulle novità del C++?**
 
-Ci sentiamo di suggerirti due opzioni:
+Ci sentiamo di suggerirti tre opzioni:
 - [newsletter di Meeting C++](https://meetingcpp.com/mcpp/user/register.php?source=newsletter). Meeting C++ è la community C++ più grande del mondo (oltre che un evento annuale a Berlino);
-- [Standard C++](https://isocpp.org/) (c'è un feed RSS).
+- [Standard C++](https://isocpp.org/) (c'è un feed RSS);
+- [Subreddit r/cpp](https://www.reddit.com/r/cpp/).
 
 Anche noi talvolta pubblichiamo dei link ad articoli interessanti o novità. Tuttavia, lo facciamo poco spesso. Preferiamo concentrare le nostre energie (e tempo) sull'organizzazione degli eventi e la moderazione dei canali Discord. Ma quando pubblichiamo un link, questo verrà automaticamente diffuso attraverso tutti i nostri canali, incluso il Server Discord.
 
@@ -61,6 +62,6 @@ Da un'idea del lontano 2014, abbiamo deciso di pubblicare una mappa degli svilup
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1kq4qEWdgLfxmDj2QOc8jIgH3yZc" width="640" height="580"></iframe>
 
-Entra anche tu sulla mappa (se vuoi modificare le informazioni o cancellarti, [scrivici](mailto:info@italiancpp.org)):
+Entra anche tu (se vuoi modificare le informazioni o cancellarti, [scrivici](mailto:info@italiancpp.org)):
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-cAX7AiYTXIbB9NUPgM1JAW6QnxmWAJmFT4FLW-TiRjecpg/viewform?embedded=true" width="640" height="1100" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
