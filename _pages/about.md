@@ -24,9 +24,9 @@ partners:
 
 <figure>
   <img
-  src="/assets/images/about/itcppcon19-crowd.jpg"
-  alt="Italian C++ Conference 2019, Milano (240 partecipanti)">
-  <figcaption>Italian C++ Conference 2019, Milano (240 partecipanti)</figcaption>
+  src="/assets/images/eventi/meetup-fi26.jpg"
+  alt="Special C++ Meetup with Bjarne Stroustrup, Florence (280 partecipanti)">
+  <figcaption>Special C++ Meetup with Bjarne Stroustrup, Florence (280 partecipanti)</figcaption>
 </figure>
 
 Ciao!
@@ -63,6 +63,13 @@ Chiunque! Professionisti, appassionati, docenti, studenti, veterani, neofiti, im
 L’unico requisito per partecipare è prendere visione delle [informazioni legali](/privacy-policy) e rispettare il [Codice di Condotta](/coc).
 
 [➕ Iscriviti](/join){: .btn .btn--primary .btn--large}
+
+<figure>
+  <img
+  src="/assets/images/about/itcppcon19-crowd.jpg"
+  alt="Italian C++ Conference 2019, Milano (240 partecipanti)">
+  <figcaption>Italian C++ Conference 2019, Milano (240 partecipanti)</figcaption>
+</figure>
 
 * * * 
 
