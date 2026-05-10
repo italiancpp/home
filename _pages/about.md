@@ -25,8 +25,8 @@ partners:
 <figure>
   <img
   src="/assets/images/eventi/meetup-fi26.jpg"
-  alt="Special C++ Meetup with Bjarne Stroustrup, Florence (280 partecipanti)">
-  <figcaption>Special C++ Meetup with Bjarne Stroustrup, Florence (280 partecipanti)</figcaption>
+  alt="Un evento speciale con Bjarne Stroustrup, Firenze (280 partecipanti)">
+  <figcaption>Un evento speciale con Bjarne Stroustrup, Firenze (280 partecipanti)</figcaption>
 </figure>
 
 Ciao!
@@ -67,8 +67,8 @@ L’unico requisito per partecipare è prendere visione delle [informazioni lega
 <figure>
   <img
   src="/assets/images/about/itcppcon19-crowd.jpg"
-  alt="Italian C++ Conference 2019, Milano (240 partecipanti)">
-  <figcaption>Italian C++ Conference 2019, Milano (240 partecipanti)</figcaption>
+  alt="Italian C++ Conference 2019 (con Andrei Alexandrescu), Milano (240 partecipanti)">
+  <figcaption>Italian C++ Conference 2019 (con Andrei Alexandrescu), Milano (240 partecipanti)</figcaption>
 </figure>
 
 * * * 
@@ -170,6 +170,7 @@ Una galleria dedicata agli incontri con le *personalità del C++* fatti in diver
 
 <script>
 const photos = [
+  { src: "assets/images/about/bjarne-florence.jpg",   alt: "Con Bjarne Stroustrup a Firenze nel 2026" },
   { src: "assets/images/about/bjarne2016.jpg",   alt: "Con Bjarne Stroustrup e Jens Weller a Meeting C++ 2016" },
   { src: "assets/images/about/herb2016.jpg",     alt: "Con Herb Sutter ad Issaquah (Meeting Standard ISO)" },
   { src: "assets/images/about/scott2014.jpg",    alt: "Con Scott Meyers a Meeting C++ 2014" },
