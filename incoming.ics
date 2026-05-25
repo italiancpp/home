@@ -1,3 +1,7 @@
+---
+layout: none
+permalink: /incoming.ics
+---
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:Italian C++ Community
@@ -5,10 +9,9 @@ CALSCALE:GREGORIAN
 NAME:Italian C++ Community Incoming Events
 X-WR-CALNAME:Italian C++ Community Incoming Events
 BEGIN:VTIMEZONE
-TZID:Europe/Berlin
+TZID:Europe/Rome
 LAST-MODIFIED:20201011T015911Z
-TZURL:http://tzurl.org/zoneinfo-outlook/Europe/Berlin
-X-LIC-LOCATION:Europe/Berlin
+X-LIC-LOCATION:Europe/Rome
 BEGIN:DAYLIGHT
 TZNAME:CEST
 TZOFFSETFROM:+0100
@@ -24,24 +27,32 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
+{%- assign sorted_eventi = site.eventi | sort: "date" -%}
+{%- for event in sorted_eventi -%}
+{%- if event.date >= site.time -%}
+{%- assign date_stamp = event.date | date: "%Y%m%d" -%}
+{%- if event.start_time -%}
+{%- assign dtstart = date_stamp | append: "T" | append: event.start_time | remove: ":" | append: "00" -%}
+{%- else -%}
+{%- assign dtstart = date_stamp -%}
+{%- endif -%}
+{%- if event.end_time -%}
+{%- assign dtend = date_stamp | append: "T" | append: event.end_time | remove: ":" | append: "00" -%}
+{%- else -%}
+{%- assign dtend = date_stamp -%}
+{%- endif -%}
 BEGIN:VEVENT
-DTSTAMP:20211004T144247Z
-UID:20211004T144247Z-116213633
-DTSTART;TZID=Europe/Berlin:20220217T183000
-DTEND;TZID=Europe/Berlin:20220217T200000
-SUMMARY:C++ Micro Problems
-URL:https://italiancpp.org/eventi/2022-02-17-micro-problems/
-DESCRIPTION:Meetup Italian C++ Community in Modena
-LOCATION:MakeIt Modena
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+UID:{{ event.path | slugify }}@italiancpp.org
+DTSTART;TZID=Europe/Rome:{{ dtstart }}
+DTEND;TZID=Europe/Rome:{{ dtend }}
+SUMMARY:{{ event.title | strip_html | strip_newlines }}
+URL:{{ event.url | absolute_url }}
+DESCRIPTION:{{ event.excerpt | strip_html | strip_newlines }}
+{%- if event.location %}
+LOCATION:{{ event.location }}
+{%- endif %}
 END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20211004T144247Z
-UID:20211004T144247Z-116213633
-DTSTART;TZID=Europe/Berlin:20220310T183000
-DTEND;TZID=Europe/Berlin:20220310T200000
-SUMMARY:C++20 for the daily job
-URL:https://italiancpp.org/eventi/2022-03-10-cpp20/
-DESCRIPTION:Meetup Italian C++ Community in Modena
-LOCATION:MakeIt Modena
-END:VEVENT
+{%- endif -%}
+{%- endfor %}
 END:VCALENDAR
