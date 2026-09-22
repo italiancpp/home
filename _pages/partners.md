@@ -17,4 +17,5 @@ permalink: /partners
   <div><a href="https://www.eltgroup.net/"><img src="/assets/images/partners/ELT.png" alt="ELT Group"></a></div>
   <div><a href="https://kdab.com/"><img src="/assets/images/partners/kdab.png" alt="KDAB"></a></div>      
   <div><a href="https://cpponline.uk"><img src="/assets/images/partners/CppOnline.png" alt="CppOnline"></a></div>  
+  <div><a href="https://www.event-it.it/"><img src="/assets/images/partners/event-it.JPG" alt="Event-It"></a></div>  
 </div>
