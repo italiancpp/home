@@ -18,4 +18,5 @@ permalink: /partners
   <div><a href="https://kdab.com/"><img src="/assets/images/partners/kdab.png" alt="KDAB"></a></div>      
   <div><a href="https://cpponline.uk"><img src="/assets/images/partners/CppOnline.png" alt="CppOnline"></a></div>  
   <div><a href="https://www.event-it.it/"><img src="/assets/images/partners/event-it.JPG" alt="Event-It"></a></div>  
+  <div><a href="https://www.thinkcell.com/en/career/tech"><img src="/assets/images/partners/think-cell.png" alt="thinkcell"></a></div>  
 </div>
